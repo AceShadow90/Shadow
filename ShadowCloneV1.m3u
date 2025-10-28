@@ -610,250 +610,6 @@ http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Wi
 
 
 
-///////////////PH CABLE CHANNELS///////////////////
-
-
-
-#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="PH CableTV BackUp",Kapamilya Channel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="PH CableTV BackUp",KAPAMILYA
-http://103.244.145.15/live/anita123/anita123/151058.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PH CableTV BackUp",TFC ASIA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
-
-#EXTINF:-1 tvg-id="tfceurope" tvg-name="TFC EUROPE" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PH CableTV BackUp",TFC EUROPE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=457c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
-https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
-
-#EXTINF:-1 tvg-id="tfccanada" tvg-name="TFC CANADA" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PH CableTV BackUp",TFC CANADA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c700e42ffc64d9b82d94cf57a2302fa:44d038e1fdcaefb3e75ffb4e42537279
-https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
-#EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cine-mo-ph.png" group-title="PH CableTV BackUp",CINEMO TFC
-https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-#EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="PH CableTV BackUp",GMA PINOY TV
-https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/61/GMA_Life_TV_Logo_2024.png" group-title="PH CableTV BackUp",GMA Life TV
-http://103.244.145.15/live/anita123/anita123/151052.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jkU4cLa.png" group-title="PH CableTV BackUp",GMA News TV
-http://103.244.145.15/live/anita123/anita123/151053.m3u8?token=ShJcU0BbQQNHWFBcVQIEDAhUBgADUVBXBFQBBAYGBgQAVlADV1dWDV0bGBpEF0dcWF1vWQIXXlAEU1ICVkgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="gma7ph1" tvg-name="GMA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/gma-ph.png" group-title="PH CableTV BackUp",GMA
-https://ott.m3u8.nathcreqtives.com/gma/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jsCBRq0.png" group-title="PH CableTV BackUp",TV5 HD
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:C0:8C:65&stream=926150&extension=ts&play_token=dNlykZucNz
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XPAXVUk.png" group-title="PH CableTV BackUp",MYX
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/2000px-RPTV_%282024%29.svg.png" group-title="PH CableTV BackUp",RPTV
-http://103.244.145.15/live/anita123/anita123/151070.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png" group-title="PH CableTV BackUp",CINEMA ONE
-http://103.244.145.15/live/anita123/anita123/151040.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 group-title="PH CableTV BackUp" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png", Cinema One
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
-https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PH CableTV BackUp",True Vision SPOTV
-https://e108.google-streams.com:9308/v5/VNzV4K2jwIYpP2X79cmH4w/1753442801/ad462f66329fd4360151392f7850b0cc/Wkgph9_bU76vzvWrv0U_DA/1753453481/live/vx-origin/th-spotv1_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PH CableTV BackUp",True Vision SPOTV2
-https://e108.google-streams.com:9308/v5/VNzV4K2jwIYpP2X79cmH4w/1753442801/ad462f66329fd4360151392f7850b0cc/Wkgph9_bU76vzvWrv0U_DA/1753453481/live/vx-origin/th-spotv2_720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH CableTV BackUp",VIVACINEMA
-http://103.244.145.15/live/anita123/anita123/151090.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cine-mo-ph.png" group-title="PH CableTV BackUp",CINEMO!
-http://103.244.145.15/live/anita123/anita123/151041.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH CableTV BackUp",&Flix
-https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://i.ibb.co/5KmHCMM/OIP-5-removebg-preview.png" group-title="PH CableTV BackUp",MOR Entertainment
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://www.iwanttfc.com/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f1d76704a9f84ce28e7e3d154c7dc5b1:36d98c5b0aad47b256629e57a651e3d8
-https://abslive.akamaized.net/dash/live/2028025/mor/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pWCWUX2.png" group-title="PH CableTV BackUp",JUNGO PINOY TV
-https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="PH CableTV BackUp",SCREAMFLIX
-https://jungotvstream.chanall.tv/jungotv/screamflix/stream.m3u8
-
-#EXTINF:-1 tvg-id="phcathenatv/onesports" tvg-logo="https://i.imgur.com/RrBWZ16.png" group-title="PH CableTV BackUp",ONE SPORTS
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:C0:8C:65&stream=731814&extension=ts&play_token=2qKH7zcXv5
-
-#EXTINF:-1 tvg-id="phcathenatv/onesports-1" tvg-logo="https://i.imgur.com/nFLt8cN.png" group-title="PH CableTV BackUp",One Sports +
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:C0:8C:65&stream=926161&extension=ts&play_token=4HYTsTYpgB
-
-#EXTINF:-1 tvg-id="phcathenatv/pbarush" tvg-logo="https://i.imgur.com/tvxCVRr.png" group-title="PH CableTV BackUp",PBA RUSH
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:C0:8C:65&stream=914598&extension=ts&play_token=Xs3AORzg6D
-
-#EXTINF:-1 tvg-id="phcathenatv/pbo" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="PH CableTV BackUp",PBO
-http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:C0:8C:65&stream=731812&extension=ts&play_token=vhdcW3l9rb
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PH CableTV BackUp",I Heart Movies
-http://ixp.enixph.com:9111/stream/kapamilya/ihm/master.m3u8?u=enix&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PH CableTV BackUp",Heart of Asia
-https://restreamer.ganbaruby23.xyz/memfs/32adc8a4-fd5f-4b81-9038-770ca89a0e09_output_0.m3u8
-
-#EXTINF:-1 tvg-id="UAAP.VARSITY.ph" tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="PH CableTV BackUp",UAAP Varsity Channel
-http://103.244.145.15/live/anita123/anita123/150968.m3u8?token=ShJcU0BbQQNHWwUIDgYGDQlRAwZTUAcCBFtbBFRTCgcICVEEBAACX1AbGBpEF0dcWF1vWQIXXlAEUlsBXUgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="PH CableTV BackUp",KOREAN Blockbuster
-https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MindanowNetworkTV.ph@SD" group-title="PH CableTV BackUp",Mindanow Network TV
-https://streams1.comclark.com/overlay/mindanow/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dzbbsuper" tvg-name="DZBB SUPER RAYDO" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4e/Super_Radyo_DZBB_2D_Logo_2017.png" group-title="PH CableTV BackUp",DZBB SUPER RAYDO
-https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/zZWj5vn.png" group-title="PH CableTV BackUp",The Filipino Channel
-http://103.244.145.15/live/anita123/anita123/151077.m3u8?token=ShJcU0BbQQNHDQULVQVTCggCVVMAAgEHVwNUD1wHUQQHB1IEUAFTXwcbGBpEF0dcWF1vWQIXXlAEU1IAUkgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png" group-title="PH CableTV BackUp",DepEd TV
-http://103.244.145.15/live/anita123/anita123/150995.m3u8?token=ShJcU0BbQQNHXAQNU1BTCgBWCANXAQcCU1BXUwBTAFEDBwYFUFEGXFMbGBpEF0dcWF1vWQIXXlAEUlsOUEgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8d/MPTV_Logo_2023.png" group-title="PH CableTV BackUp",MPTV
-http://103.244.145.15/live/anita123/anita123/150987.m3u8?token=ShJcU0BbQQNHDFZZDldWCwhVUgNfVFAAVwZXAQRWVwUGAgBXBVdQCAMbGBpEF0dcWF1vWQIXXlAEUlsPUkgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png" group-title="PH CableTV BackUp",Kapatid International
-http://103.244.145.15/live/anita123/anita123/151029.m3u8?token=ShJcU0BbQQNHAAdbVFQGXF9RBgNRBQJRCVtaVVFSUQYGUwZWBwcAW1AbGBpEF0dcWF1vWQIXXlAEU1IFXEgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH CableTV BackUp",TVN MOVIES
-http://103.244.145.15/live/anita123/anita123/151038.m3u8?token=ShJcU0BbQQNHDQMNB1QMXQ9SCQdeAwEABFMBBVxSVVYIBw1WAAYCXF0bGBpEF0dcWF1vWQIXXlAEU1IEXUgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
-
-#EXTINF:-1 tvg-logo="http://apkip.tv/logos/USA/DisneyJunior.us.png" group-title="PH CableTV BackUp",Disney Jr
-http://tvmate.icu:8080/live/7686199/9576982/57349.m3u8
-http://xtream-ie.org/NickflextvPaid2025/NickflextvPaid2025/649
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/disney-xd-uk.png" group-title="PH CableTV BackUp",Disney xd
-http://tvmate.icu:8080/live/7686199/9576982/57420.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH CableTV BackUp",AsianCrush
-https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&url=https://www.asiancrush.com&genre=Documentary,Independent,Sci-Fi%20&%20Fantasy,Kids%20&%20Family,Drama,Romance,Comedy,Action%20&%20Adventure,Sports&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_webe2f1f1c449b2b43d72e1a991a25f2666&dnt=1&coppa=0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
-#EXTINF:-1 tvg-id="teleradyo1" tvg-name="TELERADYO TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png" group-title="PH CableTV BackUp",TELERADYO (TFC)
-https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
-#EXTINF:-1 tvg-id="anc1" tvg-name="ANC HD (TFC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/anc-ph.png" group-title="PH CableTV BackUp",ANC HD (TFC)
-https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
-
-#EXTINF:-1 tvg-id="MYX.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Myx_White_Logo_2021.png" group-title="PH CableTV BackUp",MYX Global
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
-https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
-
-#EXTINF:-1 tvg-id="Euronews.id" group-title="PH CableTV BackUp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png",Euronews
-#KODIPROP:inputstream.adaptive.common_headers=referrer=https://www.indihometv.com/&user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ePFs2qG.png" group-title="PH CableTV BackUp",Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="PH CableTV BackUp",BoxingTV
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="PH CableTV BackUp",Vision+
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="PH CableTV BackUp",&FLIX
-https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
-
-#EXTINF:-1 tvg-id="phcathenatv/buko" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/2f/BuKo_Logo_2021.png" group-title="PH CableTV BackUp",Buko Channel
-https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/buko_qp_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0b232373-fb80-4704-976f-ecefeaa377b6-width200-quality90.png" group-title="PH CableTV BackUp",DAZN Combat
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0b232373-fb80-4704-976f-ecefeaa377b6-width200-quality90.png" group-title="PH CableTV BackUp",DAZN Ringside
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1e2a534-715c-495d-a4f3-2d56a6177548
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gYYYebi.png" group-title="PH CableTV BackUp",Hallypop
-https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="PH CableTV BackUp",HBO Boxing
-http://84423.xyz:8000/Bronder67-test/ZAHW9SU1IC-test/145499
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="PH CableTV BackUp",KOREAN Blockbuster
-https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="PH CableTV BackUp",New Kmovies channel
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="PH CableTV BackUp",SONY MOVIES
-http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
-#EXTINF:-1 tvg-id="phcathenatv/teleradyoserbisyohd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/500px-TeleRadyo_Serbisyo_logo.svg.png" group-title="PH CableTV BackUp",Teleradyo Serbisyo HD
-http://honeywatch.net:80/play/live.php?mac=00:1A:79:48:07:f6&stream=926211&extension=ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock Entertainment" tvg-logo="https://i.imgur.com/PR9DbtR.png" group-title="PH CableTV BackUp",Rock Entertainment HD
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.indihometv.com/atm/DASH//rock_entertainment/manifest.mpd
-
-#EXTINF: -1 tvg-id="PH CableTV Channels.Programming.Dummy.us" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="PH CableTV BackUp", CCTN 47
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="PH CableTV BackUp",Wicked Tuna
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2llPsSV.png" group-title="PH CableTV BackUp",World Fishing Network
-http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.wallpapersafari.com/80/2/pEOBu1.png" group-title="PH CableTV BackUp",WWE Channel
-http://exm3u.extraott.com:900/live/1103581436/4099381829/186845.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ysY2Usa.png" group-title="PH CableTV BackUp",ZEE Cine
-https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UFC Fight Pass" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ufc-fight-pass-us.png" tvg-name="UFC Fight Pass" group-title="PH CableTV BackUp",UFC Fight Pass
-http://fl1.moveonjoy.com/UFC/index.m3u8
-
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Unifi_Sports_2023.png/revision/latest?cb=20230616051349" group-title="PH CableTV BackUp", UNIFI SPORTS 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/d73Thkh/outdoor-channel-us.png" group-title="PH CableTV BackUp",Outdoor channel
-https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-
-
 ///////////////////Live Sports////////////////
 
 
@@ -862,79 +618,20 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="MULTI STREAM vs MULTI STREAM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",MULTI STREAM vs MULTI STREAM
 https://gg.poocloud.in/nba_multistream/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Cleveland Cavaliers vs Detroit Pistons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Cleveland Cavaliers vs Detroit Pistons
-https://gg.poocloud.in/nba_detroitpistons/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Philadelphia 76ers vs Washington Wizards" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Philadelphia 76ers vs Washington Wizards
+https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Orlando Magic vs Philadelphia 76ers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Orlando Magic vs Philadelphia 76ers
-https://gg.poocloud.in/nba_philadelphia76ers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Charlotte Hornets vs Miami Heat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Charlotte Hornets vs Miami Heat
+https://gg.poocloud.in/nba_miamiheat/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Atlanta Hawks vs Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Atlanta Hawks vs Chicago Bulls
-https://gg.poocloud.in/nba_chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="New York Knicks vs Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",New York Knicks vs Milwaukee Bucks
+https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Brooklyn Nets vs Houston Rockets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Brooklyn Nets vs Houston Rockets
-https://gg.poocloud.in/nba_houstonrockets/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Sacramento Kings vs Oklahoma City Thunder" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Sacramento Kings vs Oklahoma City Thunder
+https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Boston Celtics vs New Orleans Pelicans" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Boston Celtics vs New Orleans Pelicans
-https://gg.poocloud.in/nba_neworleanspelicans/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Toronto Raptors vs San Antonio Spurs" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Toronto Raptors vs San Antonio Spurs
-https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Oklahoma City Thunder vs Dallas Mavericks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Oklahoma City Thunder vs Dallas Mavericks
-https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Phoenix Suns vs Utah Jazz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Phoenix Suns vs Utah Jazz
-https://gg.poocloud.in/nba_utahjazz/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Denver Nuggets vs Minnesota Timberwolves" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Denver Nuggets vs Minnesota Timberwolves
-https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Memphis Grizzlies vs Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Memphis Grizzlies vs Golden State Warriors
+#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="LA Clippers vs Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",LA Clippers vs Golden State Warriors
 https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Portland Trail Blazers vs Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Portland Trail Blazers vs Los Angeles Lakers
-https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Multi Stream @ Multi Stream" tvg-logo="https://thetvapps.com/wp-content/uploads/2025/10/sports.svg" group-title="NBA - Live Games Server2",Multi Stream @ Multi Stream
-https://gg.poocloud.in/stream/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cleveland Cavaliers @ Detroit Pistons • Oct 28 at 7:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&w=64&h=64" group-title="NBA - Live Games Server2",Cleveland Cavaliers @ Detroit Pistons • Oct 28 at 7:00 AM PHT
-https://gg.poocloud.in/nba_detroitpistons/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Orlando Magic @ Philadelphia 76Ers • Oct 28 at 7:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=64&h=64" group-title="NBA - Live Games Server2",Orlando Magic @ Philadelphia 76Ers • Oct 28 at 7:00 AM PHT
-https://gg.poocloud.in/76ers/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Atlanta Hawks @ Chicago Bulls • Oct 28 at 8:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&w=64&h=64" group-title="NBA - Live Games Server2",Atlanta Hawks @ Chicago Bulls • Oct 28 at 8:00 AM PHT
-https://gg.poocloud.in/nba_chicagobulls/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Brooklyn Nets @ Houston Rockets • Oct 28 at 8:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/hou.png&w=64&h=64" group-title="NBA - Live Games Server2",Brooklyn Nets @ Houston Rockets • Oct 28 at 8:00 AM PHT
-https://gg.poocloud.in/nba_houstonrockets/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ New Orleans Pelicans • Oct 28 at 8:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/no.png&w=64&h=64" group-title="NBA - Live Games Server2",Boston Celtics @ New Orleans Pelicans • Oct 28 at 8:00 AM PHT
-https://gg.poocloud.in/nba_neworleanspelicans/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Toronto Raptors @ San Antonio Spurs • Oct 28 at 8:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/sa.png&w=64&h=64" group-title="NBA - Live Games Server2",Toronto Raptors @ San Antonio Spurs • Oct 28 at 8:00 AM PHT
-https://gg.poocloud.in/nba_sanantoniospurs/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder @ Dallas Mavericks • Oct 28 at 8:30 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/dal.png&w=64&h=64" group-title="NBA - Live Games Server2",Oklahoma City Thunder @ Dallas Mavericks • Oct 28 at 8:30 AM PHT
-https://gg.poocloud.in/nba_dallasmavericks/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ Utah Jazz • Oct 28 at 9:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&w=64&h=64" group-title="NBA - Live Games Server2",Phoenix Suns @ Utah Jazz • Oct 28 at 9:00 AM PHT
-https://gg.poocloud.in/nba_utahjazz/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Denver Nuggets @ Minnesota Timberwolves • Oct 28 at 9:30 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&w=64&h=64" group-title="NBA - Live Games Server2",Denver Nuggets @ Minnesota Timberwolves • Oct 28 at 9:30 AM PHT
-https://gg.poocloud.in/nba_minnesotatimberwolves/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Memphis Grizzlies @ Golden State Warriors • Oct 28 at 10:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&w=64&h=64" group-title="NBA - Live Games Server2",Memphis Grizzlies @ Golden State Warriors • Oct 28 at 10:00 AM PHT
-https://gg.poocloud.in/nba_goldenstatewarriors/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Portland Trail Blazers @ Los Angeles Lakers • Oct 28 at 10:30 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lal.png&w=64&h=64" group-title="NBA - Live Games Server2",Portland Trail Blazers @ Los Angeles Lakers • Oct 28 at 10:30 AM PHT
-https://gg.poocloud.in/nba_losangeleslakers/tracks-v1a1/mono.ts.m3u8
-
 
 
 
@@ -1003,178 +700,43 @@ https://gg.poocloud.in/nba_utahjazz/index.m3u8
 
 
 
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg" group-title="MLB",Toronto Blue Jays vs. Los Angeles Dodgers
+https://gg.poocloud.in/dodgers/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/03e78a6ebc7218c0e054460d58d4533a-thumbnail.jpg" group-title="MLB",Toronto Blue Jays vs. Los Angeles Dodgers (Alt 2)
+https://gg.poocloud.in/dodgers/index.m3u8
 
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling Events",WWE: NXT
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 
-//////////////////PH SamsungTvPlus////////////
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling Events",WWE: NXT (Alt 2)
+https://gg.poocloud.in/wrestling/index.m3u8
 
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling Events",AEW: Wednesday Night Dynamite
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling Events",AEW: Wednesday Night Dynamite (Alt 2)
+https://gg.poocloud.in/wrestling/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4000 Blast Movies 
-https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4001 Premier Sports  
-https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4002 Tap Sports
-https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4020 Euronews World
-https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4022 Abante Radyo
-https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4023 Bilyonaryo News Channel
-https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4024 Leadstory Breaking News 
-https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4025 Leaderboard Sports News
-https://amg02703-amg02703c20-samsung-ph-9157.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4027 France 24
-https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4030 Masterchef
-https://amg00627-amg00627c49-samsung-ph-8176.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefuk-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4036 World of Love Island 
-https://amg00654-itv-amg00654c39-samsung-th-8169.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4050 The Hotel Inspector 
-https://amg00654-itv-amg00654c4-samsung-th-8167.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4055 Antiques Road Trip
-https://amg02333-pbs-amg02333c12-samsung-us-8496.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4061 Real Blast 
-https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c10-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4060 Eggheads 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-eggheads-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4065 Ani One 
-https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4066 Aniplus
-https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4070 Mythbusters
-https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4071 Zee One
-https://amg17931-zee-amg17931c6-samsung-ph-6513.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4073 Survivor
-https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4075 Highway Thru Hell 
-https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4076 The Biggest Loser
-https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4078 Fear Factor
-https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4081 Hardcore Pawn
-https://amg00627-amg00627c8-samsung-ph-5278.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4083 Wipeout Xtra
-https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4085 River Monsters by ITV Studios
-https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4087 Unsolved Mysterys      
-https://d1si3n1st4nkgb.cloudfront.net/10000/88258000/hls/master.m3u8?ads.xumo_channelId=88258000
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4088 Deal or No Deal
-https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrow-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4089 Pointless by Banijay
-https://amg00627-amg00627c34-samsung-ph-5313.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4090 Don't Tell the Bride
-https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4095 Dr G Medical Examiner  
-https://d1si3n1st4nkgb.cloudfront.net/10000/88258001/hls/master.m3u8?ads.xumo_channelId=88258001
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4096 Hot Ones               
-https://d1si3n1st4nkgb.cloudfront.net/10000/88258002/hls/master.m3u8?ads.xumo_channelId=88258002
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4097 Come Dine With Me
-https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4098 Infast
-https://amg00861-amg00861c8-samsung-ph-4629.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4099 Inwild
-https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4109 Pet Club TV
-https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4115 K-Content by CJENM  (IN) Substitute
-https://cc-o7iz6ey4x2e4g.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o7iz6ey4x2e4g/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN49000103E
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4116 K-Food by CJENM (IN) Substitute
-https://cc-nwusx3jrgn2t8.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwusx3jrgn2t8/b2c874a8_68b3_49cb_9435_0264a4d32e4a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN490000951
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4130 Real Crime
-https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4140 History Hit
-https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4145 Glitch Plus
-https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4160 Real Wild
-https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4161 Pulse TV
-https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4171 Comic U
-https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4181 Zee Sine
-https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4185 Zee Bollymovies
-https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4186 Free Movies
-https://amg01553-amg01553c2-samsung-ph-7163.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4191 Action Hollywood Movies
-https://amg01076-amg01076c4-samsung-ph-5316.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",VILN NOT listed
-https://amg02688-amg02688c1-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c1-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",Inspire NOT listed
-https://amg02688-amg02688c2-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c2-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",Apartment NOT listed
-https://amg02688-amg02688c3-amgplt0352.playout.now3.amagi.tv/playlist/amg02688-amg02688c3-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4430 InTravel
-https://amg00861-amg00861c22-samsung-ph-5411.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",InTrouble NOT listed
-https://amg00861-amg00861c6-samsung-ph-4635.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4600 Blast Sports
-https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4603 Premier Sports 2 
-https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4604 UFC TV
-https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4605 Premier Football
-https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c5-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4621 Tennis+
-https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4625 Red Bull TV
-https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4665 Trace Sports Stars
-https://amg01131-amg01131c2-samsung-ph-7609.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4850 Now 70s
-https://amg01076-amg01076c1-samsung-ph-6994.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4851 Now 80s
-https://amg01076-amg01076c2-samsung-ph-6998.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4852 Now Rock
-https://amg01076-amg01076c3-samsung-ph-7003.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4856 Kpop by CJENM (IN) Substitute
-https://cc-s23bl4el34qh7.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-s23bl4el34qh7/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN3800006RD
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4857 @Kmusic (IN) substitute
-https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%40k-music&channel_id=newid_277&apikey=b97c7a7d0c82424bb607e141ef215779&auth=8047e75c-de975cb9-46a9680e-d55eeb66&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&nh=true&ads.device_dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=IN4900011OU
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4860 Trace Urban
-https://amg01131-amg01131c1-samsung-ph-5310.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4871 Stingray Pop Adult     
-https://d1si3n1st4nkgb.cloudfront.net/10000/88258008/hls/master.m3u8?ads.xumo_channelId=88258008
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4872 Stingray 2000s         
-https://d1si3n1st4nkgb.cloudfront.net/10000/88258009/hls/master.m3u8?ads.xumo_channelId=88258009
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4873 Stingray Greatest Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4874 Stingray Classic Rock
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4875 Stingray SPA
-https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4876 Stingray Easy Listening
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4877 Stingray Hit list      
-https://d1si3n1st4nkgb.cloudfront.net/10000/88258007/hls/master.m3u8?ads.xumo_channelId=88258007
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4879 Stingray Todays K-Pop
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4930 Kidoodle TV
-https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4933 Strawberry Shortcake   
-https://d1si3n1st4nkgb.cloudfront.net/10000/88258006/hls/master.m3u8?ads.xumo_channelId=88258006
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4934 Sonic the Hedgehog                
-https://d1si3n1st4nkgb.cloudfront.net/10000/88258004/hls/master.m3u8?ads.xumo_channelId=88258004
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4935 Super Mario         
-https://d1si3n1st4nkgb.cloudfront.net/10000/88258005/hls/master.m3u8?ads.xumo_channelId=88258005
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4936 Teletubbies            
-https://d1si3n1st4nkgb.cloudfront.net/10000/88258003/hls/master.m3u8?ads.xumo_channelId=88258003
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",4938 Pop 
-https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",Jelly Jammy World NOT listed
-https://amg01553-amg01553c1-samsung-ph-7144.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SAMSUNG TV PLUS",Dude Perfect Not listed
-https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling Events",TNA: Impact
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling Events",TNA: Impact (Alt 2)
+https://gg.poocloud.in/wrestling/index.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling Events",WWE: Friday Night Smackdown
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling Events",WWE: Friday Night Smackdown (Alt 2)
+https://gg.poocloud.in/wrestling/index.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling Events",AEW: Saturday Night Collision
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling Events",AEW: Saturday Night Collision (Alt 2)
+https://gg.poocloud.in/wrestling/index.m3u8
+
 
 
 
