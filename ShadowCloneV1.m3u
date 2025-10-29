@@ -622,24 +622,6 @@ http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="MULTI STREAM vs MULTI STREAM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",MULTI STREAM vs MULTI STREAM
-https://gg.poocloud.in/nba_multistream/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Philadelphia 76ers vs Washington Wizards" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Philadelphia 76ers vs Washington Wizards
-https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Charlotte Hornets vs Miami Heat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Charlotte Hornets vs Miami Heat
-https://gg.poocloud.in/nba_miamiheat/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="New York Knicks vs Milwaukee Bucks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",New York Knicks vs Milwaukee Bucks
-https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="Sacramento Kings vs Oklahoma City Thunder" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",Sacramento Kings vs Oklahoma City Thunder
-https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Live" tvg-name="LA Clippers vs Golden State Warriors" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/sports/ppv-live/nba-league-pass.png" group-title="NBA - Live Games Server1",LA Clippers vs Golden State Warriors
-https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
 
 
 
