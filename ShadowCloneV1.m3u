@@ -33,21 +33,30 @@ https://gg.poocloud.in/portlandtrailblazers/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTM3U
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Washington Wizards vs Indiana Pacers (Dec 14 - 03:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Devant)",@4AM Washington Wizards vs Indiana Pacers
-https://cdn11.plumbercdn.cfd/live/cdn11/playlist.m3u8?expires=1765730243&token=6f376f15c4d239f1be62f4fb0858a2848f17e96db2929a833c58b966af85c9bc
+https://cdn11.plumbercdn.cfd/live/cdn11/playlist.m3u8?expires=1765729749&token=c5d7e2f149ec99f86819e4e180fd40794ef8bfec4ac87997ebf31cd15cf8b930
 
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Charlotte Hornets vs Cleveland Cavaliers (Dec 14 - 03:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Devant)",@4:30AM Charlotte Hornets vs Cleveland Cavaliers
-https://cdn12.plumbercdn.cfd/live/cdn12/playlist.m3u8?expires=1765742756&token=a53b786177191454735460015e838d95687104c3960a0deb569a67359e4d284d
+https://cdn12.plumbercdn.cfd/live/cdn12/playlist.m3u8?expires=1765729755&token=568928d07a88669f059f653e2c4dfd7d7ff18b72758310367e8cd1f3a3dcee7c
 
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Philadelphia 76ers vs Atlanta Hawks (Dec 14 - 06:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Devant)",@7AM Philadelphia 76ers vs Atlanta Hawks
-https://cdn13.plumbercdn.cfd/live/cdn13/playlist.m3u8?expires=1765736596&token=c0fa99550ed971b9457f3273597665f34ddd12142e51f4d934010305ebfa82cb
+https://cdn13.plumbercdn.cfd/live/cdn13/playlist.m3u8?expires=1765729788&token=6da6394b06a8af3324bd543c97d0451d4ec7d5a228684fb2a1d7c24d57a33397
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Milwaukee Bucks vs Brooklyn Nets (Dec 14 - 06:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Devant)",@7AM Milwaukee Bucks vs Brooklyn Nets
+https://cdn14.plumbercdn.cfd/live/cdn14/playlist.m3u8?expires=1765729793&token=0aab44ba5d67447280bfc20c83abb4625ff71ff1c9ab6e14ffef886aad4b3ee9
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Sacramento Kings vs Minnesota Timberwolves (Dec 14 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Devant)",@8AM Sacramento Kings vs Minnesota Timberwolves
+https://cdn15.plumbercdn.cfd/live/cdn15/playlist.m3u8?expires=1765729798&token=26fa58754d52f5a557ed6459a5045ed8591cd0048069b949866681b0e509d83c
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="New Orleans Pelicans vs Chicago Bulls (Dec 14 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Devant)",@8AM New Orleans Pelicans vs Chicago Bulls
+https://cdn8.plumbercdn.cfd/live/cdn8/playlist.m3u8?expires=1765729804&token=d0faaf479e227f4c1fb736ec18a54225baf0e54ad6226978d22072abb2410bc3
 
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Phoenix Suns (Dec 14 - 08:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Devant)",@9AM Los Angeles Lakers vs Phoenix Suns
-https://cdn9.plumbercdn.cfd/live/cdn9/playlist.m3u8?expires=1765736631&token=10f815b78ddd21b1d4f60715b9300a3113c90f602731dd835c68fd3de6461246
+https://cdn9.plumbercdn.cfd/live/cdn9/playlist.m3u8?expires=1765729809&token=e70a6f32d098d08e4497ed6075e034fc8707c01b9b86e888371a0fb469bcf2a0
 
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Warriors vs Portland Trail Blazers (Dec 14 - 10:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Devant)",@10AM Golden State Warriors vs Portland Trail Blazers
-https://cdn10.plumbercdn.cfd/live/cdn10/playlist.m3u8?expires=1765736719&token=c283e5262f2c223d8ae857d8bdac8d44e02a6ec117d1983e834865d99083397d
-
+https://cdn10.plumbercdn.cfd/live/cdn10/playlist.m3u8?expires=1765729820&token=14e1434484dcc5b91daf7bd1115f91b0a73120fbd6c49b8287f3df3e06ee4655
 
 
 
