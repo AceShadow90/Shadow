@@ -9,6 +9,12 @@ https://gg.poocloud.in/newyorkknicks/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Antonio Spurs vs New York Knicks (Dec 16 - 08:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Devant)",@9:30AM San Antonio Spurs vs New York Knicks
+https://cdn1.polkadot.cfd/live/cdn1/playlist.m3u8?expires=1765917240&token=d201beb7c6fc7db68ab92f3da96a75e64878269c8184e6a8888f06845a8860bd
+
+
+
+
 #EXTINF:-1 tvg-id="🎯 Darts Live Event.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="🎯 Darts Live Event",World 🎯 Darts Live Event Championship [PDC Darts]
 https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 
