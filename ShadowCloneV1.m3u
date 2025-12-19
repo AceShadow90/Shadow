@@ -45,6 +45,35 @@ https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 
 
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Atlanta Hawks vs Charlotte Hornets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Atlanta Hawks vs Charlotte Hornets
+https://cdn2.jackcdn.cfd/live/cdn2/playlist.m3u8?expires=1766105024&token=d97586834b690b6264c0c2a8f8f8852178a1609bfffb23ae89e71d6813015417
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="New York Knicks vs Indiana Pacers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",New York Knicks vs Indiana Pacers
+https://cdn3.jackcdn.cfd/live/cdn3/playlist.m3u8?expires=1766105013&token=308df9de2aaf5203fae3c02c2996fa3f9b89ae57216d6f427179769b09db3488
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Miami Heat vs Brooklyn Nets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Miami Heat vs Brooklyn Nets
+https://cdn4.jackcdn.cfd/live/cdn4/playlist.m3u8?expires=1766105026&token=8fe613c27c1ee4f40c231fd2a62367f137a5e831495c3df28f70c65484ce5097
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Washington Wizards vs San Antonio Spurs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Washington Wizards vs San Antonio Spurs
+https://cdn5.jackcdn.cfd/live/cdn5/playlist.m3u8?expires=1766105148&token=b68979974340a326ebeb8d11b8787e974911f51d4271e180d44a301a2e4b9ca3
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Toronto Raptors vs Milwaukee Bucks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Toronto Raptors vs Milwaukee Bucks
+https://cdn6.jackcdn.cfd/live/cdn6/playlist.m3u8?expires=1766105409&token=5e713bf127dc0124723e871247cbed22f3c9711e01712fb38967366b8ac7845c
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs New Orleans Pelicans" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Houston Rockets vs New Orleans Pelicans
+https://cdn7.jackcdn.cfd/live/cdn7/playlist.m3u8?expires=1766105502&token=50c1b7e76ed06b4e8bfa82dec1ae693691325489026922e46bdd990a971db695
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Clippers vs Oklahoma City Thunder" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Los Angeles Clippers vs Oklahoma City Thunder
+https://cdn8.jackcdn.cfd/live/cdn8/playlist.m3u8?expires=1766105309&token=1c497d0e5c9806153245c9368b56d59d1c8a58c798f716ac1319a8781acea7af
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Detroit Pistons vs Dallas Mavericks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Detroit Pistons vs Dallas Mavericks
+https://cdn9.jackcdn.cfd/live/cdn9/playlist.m3u8?expires=1766105320&token=1bbf1aa5c86dc0a4408e3fc8af44374c923bb12f25b6bff653fc75e0bd7fc8e6
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Orlando Magic vs Denver Nuggets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Orlando Magic vs Denver Nuggets
+https://cdn10.jackcdn.cfd/live/cdn10/playlist.m3u8?expires=1766105090&token=5440e0104788271c47d15a7adad92580ba32497774b20f4773b7f9ae77ceb44c
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Warriors vs Phoenix Suns" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Golden State Warriors vs Phoenix Suns
+https://cdn11.jackcdn.cfd/live/cdn11/playlist.m3u8?expires=1766106039&token=5d373bd86231de6eb10d7a69ba651ac0b28b5166fe26cf2f71f72bd48e80bdd6
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Utah Jazz" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (for Other Device )",Los Angeles Lakers vs Utah Jazz
+https://cdn12.jackcdn.cfd/live/cdn12/playlist.m3u8?expires=1766105099&token=0c10fb5540c72701cf56a36f98edd3bbc60b23c9a8a82621e82bdaa3e8ee04ad
+
+
+
+
+
 #EXTINF:-1 tvg-id="🎯 Darts Live Event.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="🎯 Darts Live Event",World 🎯 Darts Live Event Championship [PDC Darts]
 https://gg.poocloud.in/darts/index.m3u8
 
