@@ -40,23 +40,35 @@ https://gg.poocloud.in/laclippers/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs Denver Nuggets (Dec 20 - 05:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@6:00AM Houston Rockets vs Denver Nuggets
-https://cdn7.lilicdn.cfd/live/cdn7/playlist.m3u8?expires=1766259939&token=c8e16015ec93ebc3778dd1c0a83aca144f2c9524f78e13af45b19961b26465d1
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Houston Rockets vs Denver Nuggets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@6:00AM Houston Rockets vs Denver Nuggets
+https://cdn7.lilicdn.cfd/live/cdn7/playlist.m3u8?expires=1766275333&token=4847ed0047233edb9b7d29fcefae1e01ffa37b93e9592b092ef058d4415fd813
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dallas Mavericks vs Philadelphia 76ers (Dec 20 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Dallas Mavericks vs Philadelphia 76ers
-https://cdn8.lilicdn.cfd/live/cdn8/playlist.m3u8?expires=1766259939&token=2b8ee05d0e099983bab58d2e9cbb619f5a9f90ce5dbc1578e838e895dbe1c1af
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dallas Mavericks vs Philadelphia 76ers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Dallas Mavericks vs Philadelphia 76ers
+https://cdn8.lilicdn.cfd/live/cdn8/playlist.m3u8?expires=1766275547&token=3c536f2edfeb464ea99d9d025fa13ee3a29804a9dafadbb3b2ff2af957170862
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Pacers vs New Orleans Pelicans (Dec 20 - 07:00 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Indiana Pacers vs New Orleans Pelicans
-https://cdn10.lilicdn.cfd/live/cdn10/playlist.m3u8?expires=1766259939&token=010737d20797120f1ed54a352780a2bdf23f878c7f0658e93877078d911eeead
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Boston Celtics vs Toronto Raptors" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Boston Celtics vs Toronto Raptors
+https://cdn9.lilicdn.cfd/live/cdn9/playlist.m3u8?expires=1766275988&token=7b05e58e8326849a8b7005eac5b90513832ad9cc198f17eec328a4449ebed0be
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Phoenix Suns vs Golden State Warriors (Dec 20 - 08:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@9:30AM Phoenix Suns vs Golden State Warriors
-https://cdn13.lilicdn.cfd/live/cdn13/playlist.m3u8?expires=1766262424&token=b60fc20893d5a7cbab4181a469812724bfa58c3e0c26f76e1b6f11fbe1623adc
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Pacers vs New Orleans Pelicans" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:00AM Indiana Pacers vs New Orleans Pelicans
+https://cdn10.lilicdn.cfd/live/cdn10/playlist.m3u8?expires=1766275667&token=79a37a734d6ba6307cc142c57feb7741a5e2a398b25ec90ce6fe6253f9db402a
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Orlando Magic vs Utah Jazz (Dec 20 - 09:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@10:30AM Orlando Magic vs Utah Jazz
-https://cdn14.lilicdn.cfd/live/cdn14/playlist.m3u8?expires=1766259950&token=186195d0c24edb78827600d3b62923005396da64ced04d36bdeeb1a37d90d856
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Charlotte Hornets vs Detroit Pistons" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@8:30AM Charlotte Hornets vs Detroit Pistons
+https://cdn11.lilicdn.cfd/live/cdn11/playlist.m3u8?expires=1766275642&token=ac84a523ec497a1f524967fc50d0ec03c029f8402976186d7037f7f5b048739d
 
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Los Angeles Clippers (Dec 20 - 10:30 PM ET)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@11:30AM Los Angeles Lakers vs Los Angeles Clippers
-https://cdn3.lilicdn.cfd/live/cdn3/playlist.m3u8?expires=1766259927&token=c0b5e9674cb63cf40e9266376144fd06a9374af445401a5047fc41f504a67687
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Washington Wizards vs Memphis Grizzlies" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@9:00AM Washington Wizards vs Memphis Grizzlies
+https://cdn12.lilicdn.cfd/live/cdn12/playlist.m3u8?expires=1766275557&token=f228c1a1269db3756c7f6aeb008bc5ac0020da69a3c79b2081318aab11d70020
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Phoenix Suns vs Golden State Warriors" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@9:30AM Phoenix Suns vs Golden State Warriors
+https://cdn13.lilicdn.cfd/live/cdn13/playlist.m3u8?expires=1766275855&token=1216ac70d3ee615897723c85cbd431c89334af20a9b9a431cb4ecefb443ec45e
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Orlando Magic vs Utah Jazz" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@10:30AM Orlando Magic vs Utah Jazz
+https://cdn14.lilicdn.cfd/live/cdn14/playlist.m3u8?expires=1766275539&token=83656a39293c0c711078ae75e427a9055238e400292dcb6883dcb61da6b889c1
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Portland Trail Blazers vs Sacramento Kings" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@11:00AM Portland Trail Blazers vs Sacramento Kings
+https://cdn15.lilicdn.cfd/live/cdn15/playlist.m3u8?expires=1766275599&token=3ca90093f41bdf40dba77e665bdf6c764ed5f54f7cbc7a6f4e3f6784bb0bfb0d
+
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Lakers vs Los Angeles Clippers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="🏀 NBA Live (For Other Device)",@11:30AM Los Angeles Lakers vs Los Angeles Clippers
+https://cdn3.lilicdn.cfd/live/cdn3/playlist.m3u8?expires=1766277076&token=db83e0815fa4e2a3a38c842394b3067132a7ace6536ae5bec573617dbbe7c8c9
 
 
 
