@@ -44,6 +44,54 @@ https://cdn7.stfile.xyz/live/cdn7/chunks.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3c4da57019a3db5ddc05846665384761-thumbnail.jpg" group-title="🏈 American Football Live (Dec 26,Fri)",Dallas Cowboys vs. Washington Commanders [NETFLIX]
+https://gg.poocloud.in/washingtoncommanders/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/03acdf9085886d1cc43f0e5e625e64b7-thumbnail.jpg" group-title="🏈 American Football Live (Dec 26,Fri)",@5:30AM Detroit Lions vs. Minnesota Vikings [NETFLIX]
+https://gg.poocloud.in/minnesotavikings/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f62324be7b3bf56476438d49563762f2-thumbnail.jpg" group-title="🏈 American Football Live (Dec 26,Fri)",@8:15AM Denver Broncos vs. Kansas City Chiefs [PRIME VIDEO]
+https://gg.poocloud.in/kansascitychiefs/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/69f93ba1393a3b513724f9c2fe1a9ca1-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 26,Fri)",@8:30PM Angola vs. Zimbabwe [AFCON]
+https://gg.poocloud.in/afcon/index.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9e59e840cdbc7f9e09811f5d1c92b31f-thumbnail.jpg" group-title="⚽ Global Footbal Live (Dec 26,Fri)",@11:00PM Egypt vs. South Africa [AFCON]
+https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Misc.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" group-title="🏏 Cricket Live Stream (Dec 26,Fri)",@7:30AM Australia vs. England [FOX CRICKET]
+https://gg.poocloud.in/ashes_fox/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="🤼  Wrestling Live Event(Dec 26,Fri)",@9:00AM TNA: Impact [AXS TV]
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="🤼  Wrestling Live Event(Dec 26,Fri)",@10:00AM AEW: Saturday Night Collision [NETFLIX]
+https://gg.poocloud.in/aew/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 CHANNEL",24/7 South Park
 https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 
@@ -14103,5 +14151,6 @@ http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/137262.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stepmom from Hell (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQS5xvThUb3PWN1PHTDqY0QPiJo.jpg" group-title="DISNEY | Drama",Stepmom from Hell (2024)
 http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/137263.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Boarding School Murders (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVgjhPjyYdeMxo6pea82uFwpa
+
 
 
