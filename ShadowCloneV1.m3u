@@ -6,39 +6,6 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@6AM Minnesota Timberwolves vs. Miami Heat
-https://gg.poocloud.in/miamiheat/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@8:30AM Philadelphia 76ers vs. New York Knicks
-https://gg.poocloud.in/newyorkknicks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@8:30AM Atlanta Hawks vs. Toronto Raptors
-https://gg.poocloud.in/torontoraptors/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@9AM Charlotte Hornets vs. Chicago Bulls
-https://gg.poocloud.in/chicagobulls/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@9AM Portland Trail Blazers vs. San Antonio Spurs 
-https://gg.poocloud.in/sanantoniospurs/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@9:30AM Houston Rockets vs. Dallas Mavericks
-https://gg.poocloud.in/dallasmavericks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@11AM Utah Jazz vs. Golden State Warriors
-https://gg.poocloud.in/goldenstatewarriors/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@11:30AM Boston Celtics vs. Los Angeles Clippers
-https://gg.poocloud.in/laclippers/index.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 5-Mon)",@3AM Detroit Pistons vs. Cleveland Cavaliers
 https://gg.poocloud.in/clevelandcavaliers/index.m3u8
 
@@ -164,9 +131,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbno
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="PH HayabusaTV",GMA 7
-https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
-
-#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="PH HayabusaTV",GMA 7(test)
 https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png" group-title="PH HayabusaTV",Kapatid International (test)
@@ -14191,11 +14155,6 @@ http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/137262.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Stepmom from Hell (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQS5xvThUb3PWN1PHTDqY0QPiJo.jpg" group-title="DISNEY | Drama",Stepmom from Hell (2024)
 http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/137263.mkv
 #EXTINF:-1 tvg-id="" tvg-name="The Boarding School Murders (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVgjhPjyYdeMxo6pea82uFwpa
-
-
-
-
-
 
 
 
