@@ -6,6 +6,7 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 
+
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5d59e0007b595adca0a1cc222d0c02a1-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Magic vs. Cavaliers
 https://cdn1.ckfiles.cfd/live/cdn1/playlist.m3u8?expires=1769472041&token=e8c7d3a55b398100f99ea17eaac68519a5c07f9dd1433828321361f7cd0cd28c
@@ -26,17 +27,24 @@ https://cdn5.ckfiles.cfd/live/cdn5/playlist.m3u8?expires=1769472622&token=c7ee85
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NBA Live (Source 2)",UPDATE NOTICE IF IT STOPS PLAYING
+https://drive.usercontent.google.com/download?id=1JcMqZxZLoKWyqvUo4J8tcV4nE3CNkcKH&export=download&authuser=N
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5d59e0007b595adca0a1cc222d0c02a1-thumbnail.jpg" group-title="NBA Live (Source 2)",8AM Magic vs. Cavaliers
+https://strm.poocloud.in/secure/gGCeGFEoqlgboulNlRZIRiWRYrhzUpKO/1769464800/1769489280/clevelandcavaliers/index.m3u8
+
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6cd6d94bb7bd8db6a434d263b640b452-thumbnail.jpg" group-title="NBA Live (Source 2)",9AM Trail Blazers vs. Celtics
-https://strm.poocloud.in/secure/HLUCVGGmtVGejrEhbUybTHMhnpGybYBn/1769468400/1769492880/bostonceltics/index.m3u8
+https://strm.poocloud.in/secure/bdbyctcCWDlVceulRYbLCmixbfeDAiJP/1769468400/1769492880/bostonceltics/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3240baba79f6687b2c7d4dc622997494-thumbnail.jpg" group-title="NBA Live (Source 2)",9AM Lakers vs. Bulls
-https://strm.poocloud.in/secure/yXtzhwgApqBcsHqkGqFPeORPrEZBXvtP/1769468400/1769492880/chicagobulls/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/tkBgvYKOKlGGyNfPlpJwqcBGuKVDmYmb/1769468400/1769492880/chicagobulls/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6fd8b222b0f1634bb01cfb5a64a4bef1-thumbnail.jpg" group-title="NBA Live (Source 2)",9AM Grizzlies vs. Rockets
-https://strm.poocloud.in/secure/okJmUSAeNOjhbBZyApYkPKvdEoSIHUaQ/1769468400/1769492880/houstonrockets/index.m3u8
+https://strm.poocloud.in/secure/uhBNdGoLxnGUbviNETeyyZrHhxMPVXVw/1769468400/1769492880/houstonrockets/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="NBA Live (Source 2)",10:30AM Warriors vs. Timberwolves
-https://strm.poocloud.in/secure/rcQLQsmsYkoMIvAWNxMTMyXIfHwBInQq/1769473800/1769498280/minnesotatimberwolves/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/QyuqtiSLJkuKmYDNZrwqOHeVPkzdCkVl/1769473800/1769498280/minnesotatimberwolves/index.m3u8
+
 
 
 
@@ -1615,5 +1623,396 @@ http://178.33.239.54:8080/508a/index.m3u8
 
 
 
+
+
+#EXTM3U
+#EXTINF:-1 group-title="IntL Channel",11 - Repretel
+http://45.5.119.97:12500/play/a048/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",3ABN Latino
+http://45.5.119.97:12500/play/a07w/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",4 Repretel
+http://45.5.119.97:12500/play/a056/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",6 - Repretel
+http://45.5.119.97:12500/play/a047/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",A&E
+http://45.5.119.97:12500/play/a05c/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",A&E HD
+http://45.5.119.97:12500/play/a03i/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",AMC
+http://45.5.119.97:12500/play/a033/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",AMC HD
+http://45.5.119.97:12500/play/a03j/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",AXN
+http://45.5.119.97:12500/play/a031/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",AXN HD
+http://45.5.119.97:12500/play/a072/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",AZ click HD
+http://45.5.119.97:12500/play/a03p/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Adult Swim
+http://45.5.119.97:12500/play/a02q/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Animal Planet
+http://45.5.119.97:12500/play/a05f/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Animal Planet HD
+http://45.5.119.97:12500/play/a03f/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Antena 7- RD
+http://45.5.119.97:12500/play/a02g/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Azcorazon
+http://45.5.119.97:12500/play/a02s/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Azmundo
+http://45.5.119.97:12500/play/a058/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",BANDA MAX CVL 
+http://45.5.119.97:12500/play/a092/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",BBC News
+http://45.5.119.97:12500/play/a035/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Baby First
+http://45.5.119.97:12500/play/a04b/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",CDN2- RD
+http://45.5.119.97:12500/play/a041/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",CDN37 - RD
+http://45.5.119.97:12500/play/a055/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",CERTV
+http://45.5.119.97:12500/play/a065/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",CINECANAL HD
+http://45.5.119.97:12500/play/a05p/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",CNBC
+http://45.5.119.97:12500/play/a06z/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",CNNE
+http://45.5.119.97:12500/play/a034/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal  21 - ESA
+http://45.5.119.97:12500/play/a06c/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 11 - GUA
+http://45.5.119.97:12500/play/a03v/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 11 - HON
+http://45.5.119.97:12500/play/a02e/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 12 - ESA
+http://45.5.119.97:12500/play/a03x/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 13-GUA
+http://45.5.119.97:12500/play/a03u/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 14 - NIC
+http://45.5.119.97:12500/play/a03z/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 19  ESA
+http://45.5.119.97:12500/play/a04a/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 2 - ESA
+http://45.5.119.97:12500/play/a051/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 27
+http://45.5.119.97:12500/play/a07u/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 3 - GUA
+http://45.5.119.97:12500/play/a04z/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 3 Telesistemas HND
+http://45.5.119.97:12500/play/a06e/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 4 - ESA
+http://45.5.119.97:12500/play/a050/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 5 - HON
+http://45.5.119.97:12500/play/a052/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 6 - ESA
+http://45.5.119.97:12500/play/a03w/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 7 - GUA
+http://45.5.119.97:12500/play/a04y/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal 7 HD CR
+http://45.5.119.97:12500/play/a03c/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal Antigua - GUA
+http://45.5.119.97:12500/play/a04w/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal Azteca - GUA
+http://45.5.119.97:12500/play/a04x/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal Claro
+http://45.5.119.97:12500/play/a02c/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal VTV HND
+http://45.5.119.97:12500/play/a06f/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Canal del Congreso
+http://45.5.119.97:12500/play/a068/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Cartoon Network
+http://45.5.119.97:12500/play/a02l/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Cartoonito
+http://45.5.119.97:12500/play/a07j/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Cine Latino
+http://45.5.119.97:12500/play/a06v/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",CineCanal
+http://45.5.119.97:12500/play/a06y/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",CineMax
+http://45.5.119.97:12500/play/a06w/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Claro Sports 1 HD
+http://45.5.119.97:12500/play/a08w/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Claro Sports 2 HD
+http://45.5.119.97:12500/play/a08x/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Claro Sports 3 HD
+http://45.5.119.97:12500/play/a024/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Color Vision 9 - RD
+http://45.5.119.97:12500/play/a054/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Concert Channel
+http://45.5.119.97:12500/play/a06s/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",DHE HD
+http://45.5.119.97:12500/play/a03o/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",DISC THEATHER HD
+http://45.5.119.97:12500/play/a05u/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Digital 15 - RD
+http://45.5.119.97:12500/play/a040/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Discovery Channel
+http://45.5.119.97:12500/play/a05e/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Discovery Channel HD
+http://45.5.119.97:12500/play/a07d/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Discovery Home & Health
+http://45.5.119.97:12500/play/a06l/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Discovery ID HD
+http://45.5.119.97:12500/play/a07h/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Discovery Kids
+http://45.5.119.97:12500/play/a06g/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Discovery Turbo
+http://45.5.119.97:12500/play/a06k/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Discovery World HD
+http://45.5.119.97:12500/play/a07e/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Disney
+http://45.5.119.97:12500/play/a06i/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Disney JR
+http://45.5.119.97:12500/play/a02o/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Distrito Comedia Colombia
+http://45.5.119.97:12500/play/eeeaa/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",E!
+http://45.5.119.97:12500/play/a05b/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",E! Entertairment HD
+http://45.5.119.97:12500/play/a03g/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ELIM TV - ESA
+http://45.5.119.97:12500/play/a03t/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN
+http://45.5.119.97:12500/play/a05j/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN  4 HD
+http://45.5.119.97:12500/play/a03b/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN 2
+http://45.5.119.97:12500/play/a05k/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN 3
+http://45.5.119.97:12500/play/a04k/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN 3 HD
+http://45.5.119.97:12500/play/a078/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN 4
+http://45.5.119.97:12500/play/a04l/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN 5
+http://45.5.119.97:12500/play/a06q/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN 5  HD
+http://45.5.119.97:12500/play/a074/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN 6
+http://45.5.119.97:12500/play/a02y/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN 6 HD
+http://45.5.119.97:12500/play/a079/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ESPN HD
+http://45.5.119.97:12500/play/a076/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",EURO Channel
+http://45.5.119.97:12500/play/a04e/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",EWTN
+http://45.5.119.97:12500/play/a038/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Estrellas Latinoamerica
+http://45.5.119.97:12500/play/a07x/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Europa HD
+http://45.5.119.97:12500/play/a03m/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Exa TV
+http://45.5.119.97:12500/play/a05l/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",FUTV CR
+http://45.5.119.97:12500/play/a066/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",FUTV HD CR
+http://45.5.119.97:12500/play/a075/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",FX
+http://45.5.119.97:12500/play/a04c/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Film & Arts
+http://45.5.119.97:12500/play/a01z/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Film & arts HD
+http://45.5.119.97:12500/play/a03h/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",France24
+http://45.5.119.97:12500/play/a036/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",GOLDEN EDGE CVL 
+http://45.5.119.97:12500/play/a091/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",GlobalTV
+http://45.5.119.97:12500/play/a089/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Gobierno GUA
+http://45.5.119.97:12500/play/a08n/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Golden
+http://45.5.119.97:12500/play/a04q/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Golf Channel HD
+http://45.5.119.97:12500/play/a03r/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Guatevision - GUA
+http://45.5.119.97:12500/play/a02d/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",HBO Family HD
+http://45.5.119.97:12500/play/a029/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",HBO HD
+http://45.5.119.97:12500/play/a026/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",HBO Plus HD
+http://45.5.119.97:12500/play/a028/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",HBO XTREME
+http://45.5.119.97:12500/play/a02a/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",HBO2 HD
+http://45.5.119.97:12500/play/a08i/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",HCH- HON
+http://45.5.119.97:12500/play/a02k/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",HOLA! TV HD
+http://45.5.119.97:12500/play/a05w/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",HTV
+http://45.5.119.97:12500/play/a04p/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",History 2
+http://45.5.119.97:12500/play/a04f/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",History Channel
+http://45.5.119.97:12500/play/a05g/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",History HD
+http://45.5.119.97:12500/play/a039/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Home & Health HD
+http://45.5.119.97:12500/play/a05v/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",ID
+http://45.5.119.97:12500/play/a06m/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Jordan TV Paxtoca
+http://45.5.119.97:12500/play/a08v/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",LIFE TIME
+http://45.5.119.97:12500/play/a02x/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",La voz de Maria
+http://45.5.119.97:12500/play/a06p/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Latin America Sport
+http://45.5.119.97:12500/play/a04n/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",MTV
+http://45.5.119.97:12500/play/a06r/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",MTV HD
+http://45.5.119.97:12500/play/a03a/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",MTV Hits
+http://45.5.119.97:12500/play/a02z/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",MTV LIVE
+http://45.5.119.97:12500/play/a05y/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",MariaVision Mexico
+http://45.5.119.97:12500/play/a08b/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Multicinema
+http://45.5.119.97:12500/play/a04s/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Multimedios
+http://45.5.119.97:12500/play/a01y/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Multipremier
+http://45.5.119.97:12500/play/a06u/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",NICK JR CVL  
+http://45.5.119.97:12500/play/a090/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",NICKELODEON CVL 
+http://45.5.119.97:12500/play/a08z/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Nat Geo HD
+http://45.5.119.97:12500/play/a07a/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",National Geographic
+http://45.5.119.97:12500/play/a02w/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",OrionTV
+http://45.5.119.97:12500/play/a086/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",PASTORAL
+http://45.5.119.97:12500/play/a08o/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",PXTV
+http://45.5.119.97:12500/play/a04m/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Pasiones HD
+http://45.5.119.97:12500/play/a07f/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Playboy
+http://45.5.119.97:12500/play/a02b/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",RCN - GUA
+http://45.5.119.97:12500/play/a069/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",RCN Novelas
+http://45.5.119.97:12500/play/a04d/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",RHEMA TV
+http://45.5.119.97:12500/play/a071/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",RNN - RD
+http://45.5.119.97:12500/play/a01x/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Red25 Toto
+http://45.5.119.97:12500/play/a080/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",SEMILLITAS CVL
+http://45.5.119.97:12500/play/a08y/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",SONY
+http://45.5.119.97:12500/play/a059/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",SONY HD
+http://45.5.119.97:12500/play/a05o/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",SPACE
+http://45.5.119.97:12500/play/a02t/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",SPACE HD
+http://45.5.119.97:12500/play/a073/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",STAR CHANNEL
+http://45.5.119.97:12500/play/a06j/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",STAR CHANNEL HD
+http://45.5.119.97:12500/play/a05m/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",SUYAPA TV
+http://45.5.119.97:12500/play/a03y/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Sembrador
+http://45.5.119.97:12500/play/a04t/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Sony Movies HD
+http://45.5.119.97:12500/play/a03n/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Star TVE HD
+http://45.5.119.97:12500/play/a03q/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Studio Universal
+http://45.5.119.97:12500/play/a06x/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Sun Channel
+http://45.5.119.97:12500/play/a04h/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TBN Enlace
+http://45.5.119.97:12500/play/a037/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TCM
+http://45.5.119.97:12500/play/a04r/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TELEHIT CVL  
+http://45.5.119.97:12500/play/a093/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TGTV Canal 9
+http://45.5.119.97:12500/play/a088/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TL Novelas
+http://45.5.119.97:12500/play/a082/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TLC
+http://45.5.119.97:12500/play/a05h/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TN23 CVL
+http://45.5.119.97:12500/play/a07q/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TNT
+http://45.5.119.97:12500/play/a032/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TNT Novelas
+http://45.5.119.97:12500/play/a02v/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TNT Series
+http://45.5.119.97:12500/play/a02u/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TNT Series HD
+http://45.5.119.97:12500/play/a07c/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TV Oriente ESA
+http://45.5.119.97:12500/play/a067/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TVE
+http://45.5.119.97:12500/play/a070/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TVM25 -  ESA
+http://45.5.119.97:12500/play/a06d/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Tele Antillas - RD
+http://45.5.119.97:12500/play/a02f/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",TeleMicro - RD
+http://45.5.119.97:12500/play/a053/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Telecentro - RD
+http://45.5.119.97:12500/play/a043/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Telemundo
+http://45.5.119.97:12500/play/a02r/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Telesistema RD
+http://45.5.119.97:12500/play/a02h/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Teleunion - RD
+http://45.5.119.97:12500/play/a044/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Teleuniverso - RD
+http://45.5.119.97:12500/play/a042/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Televida RD
+http://45.5.119.97:12500/play/a01w/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Tigo Sports HD
+http://45.5.119.97:12500/play/a05q/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Tooncast
+http://45.5.119.97:12500/play/a057/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",UNIVERSAL CINEMA ESTE HD
+http://45.5.119.97:12500/play/a07i/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",UNIVERSAL COMEDY HD
+http://45.5.119.97:12500/play/a064/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",UNIVERSAL CRIME HD
+http://45.5.119.97:12500/play/a063/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",UNIVERSAL PREMIERE HD
+http://45.5.119.97:12500/play/a060/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",UNIVERSAL PREMIERE O HD
+http://45.5.119.97:12500/play/a061/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",UNIVERSAL REALITY HD
+http://45.5.119.97:12500/play/a062/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",UncionTV
+http://45.5.119.97:12500/play/a08r/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Universal
+http://45.5.119.97:12500/play/a06t/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Univision HD
+http://45.5.119.97:12500/play/a07g/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",VEA Canal
+http://45.5.119.97:12500/play/a07v/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",VENUS
+http://45.5.119.97:12500/play/a04u/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",VIEDO ROLA CVL  
+http://45.5.119.97:12500/play/a094/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",VTV Canal 35 ESA
+http://45.5.119.97:12500/play/a049/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",WARNER HD
+http://45.5.119.97:12500/play/a05n/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",Warner
+http://45.5.119.97:12500/play/a05a/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",XE-Tinimit
+http://45.5.119.97:12500/play/a08q/index.m3u8
+#EXTINF:-1 group-title="IntL Channel",dPelicula
+http://45.5.119.97:12500/play/a07y/index.m3u8
 
 
