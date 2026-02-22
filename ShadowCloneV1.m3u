@@ -32,7 +32,8 @@ https://cdn11.zafiles.cfd/live/cdn11/playlist.m3u8?expires=1771708125&token=bb8a
 #EXTINF:-1 tvg-logo="https://www.boxing247.com/wp-content/uploads/2026/02/garcia-barrios.jpg" group-title="BOXING Live Feb22(S2)",9AM Mario Barrios vs Ryan Garcia
 https://ortdruuckehagkdtgwevu.modifiles.fans/secure/onraCvxJoTslOkZoMtwwWBSwoPcffAyq/1771711200/1771750800/garcia/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.boxing247.com/wp-content/uploads/2026/02/garcia-barrios.jpg" group-title="BOXING Live Feb22(S2)",9AM Mario Barrios vs Ryan
+https://boxing.warm98.workers.dev/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.actumma.com/wp-content/uploads/2026/02/UFC-Fight-Night-267-Comment-Regarder.jpg" group-title="UFC Live Feb22(S1)",6AM UFC Fight Night: Strickland vs. Hernandez
@@ -41,7 +42,6 @@ https://cdn1.zafiles.cfd/live/cdn1/playlist.m3u8?expires=1771707003&token=84dd52
 
 #EXTINF:-1 tvg-logo="https://www.actumma.com/wp-content/uploads/2026/02/UFC-Fight-Night-267-Comment-Regarder.jpg" group-title="UFC Live Feb22(S2)",6AM UFC Fight Night: Strickland vs. Hernandez
 https://ortdruuckehagkdtgwevu.modifiles.fans/secure/sWfuMnrsmeFOkzPjFdFNCFKwISaAivLH/1771700400/1771747200/ufc/tracks-v1a1/mono.ts.m3u8
-
 
 
 
@@ -2015,6 +2015,7 @@ http://45.5.119.97:12500/play/a05a/index.m3u8
 http://45.5.119.97:12500/play/a08q/index.m3u8
 #EXTINF:-1 group-title="IntL Channel",dPelicula
 http://45.5.119.97:12500/play/a07y/index.m3u8
+
 
 
 
