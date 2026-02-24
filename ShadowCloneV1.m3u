@@ -19,6 +19,11 @@ https://cdn3.trrfiles.cfd/live/cdn3/playlist.m3u8?expires=1771894987&token=16e30
 
 
 
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIF.Bw5SAQF%2fL5JihEHFuHPL6Q&pid=Api&h=220&P=0" group-title="ICC Duterte Confirmation of charges",5PM Duterte (Republic of the Philippines) Confirmation of charges
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/46fb09b1-7ccf-25cc-f099-3850f3429fb9/index.m3u8
+
+
+
 
 
 
@@ -1986,6 +1991,7 @@ http://45.5.119.97:12500/play/a05a/index.m3u8
 http://45.5.119.97:12500/play/a08q/index.m3u8
 #EXTINF:-1 group-title="IntL Channel",dPelicula
 http://45.5.119.97:12500/play/a07y/index.m3u8
+
 
 
 
