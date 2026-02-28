@@ -103,18 +103,6 @@ https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/46fb09b1-7ccf-25c
 
 
 
-#EXTM3U
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SHORTS REELS COLLECTION",Goddess of War awakens in body of abused girl.She_ll shatter fake heiress_s lies_reclaim everything_(720P_HD)
-https://drive.usercontent.google.com/download?id=123V8nWMQqgesUBuZvT5XrvIHIEfftKwr&export=download&confirm=t
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="SHORTS REELS COLLECTION",Bricklaying for Six Years, My Goddess Proposes to Me
-https://drive.usercontent.google.com/download?id=1ueJgiK2RgyEVLpb8JI_kHcfbZSuGT_Qs&export=download&confirm=t
-
-
-
-
-
-
 
 #EXTM3U
 #EXTINF:-1 group-logo="https://www.eastwestbpo.com/wp/wp-content/uploads/2018/03/converge-logo.png",PH HayabusaTV
@@ -2080,6 +2068,7 @@ http://45.5.119.97:12500/play/a05a/index.m3u8
 http://45.5.119.97:12500/play/a08q/index.m3u8
 #EXTINF:-1 group-title="IntL Channel",dPelicula
 http://45.5.119.97:12500/play/a07y/index.m3u8
+
 
 
 
