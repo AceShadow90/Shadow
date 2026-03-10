@@ -7,12 +7,21 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR11(S2)",7AM Memphis Grizzlies vs Philadelphia 76ers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR11(S2)",7:30AM Detroit Pistons vs Brooklyn Nets
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://daffodil.lifesharper.com/nba2.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR11(S2)",7:30AM Washington Wizards vs Miami Heat
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://daffodil.lifesharper.com/nba3.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR11(S2)",7:30AM Dallas Mavericks vs Atlanta Hawks
@@ -2014,6 +2023,7 @@ http://45.5.119.97:12500/play/a05a/index.m3u8
 http://45.5.119.97:12500/play/a08q/index.m3u8
 #EXTINF:-1 group-title="IntL Channel",dPelicula
 http://45.5.119.97:12500/play/a07y/index.m3u8
+
 
 
 
