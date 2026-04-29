@@ -9,7 +9,7 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE APRIL 29" tvg-id="iptv/live" tvg-logo="https://www.mediafire.com/view/y4g97t3yqk422tn/76ers_vs_Celtics_3D.png/file" provider="NBALP" provider-logo="" provider-type="iptv",7AM 76ers vs Celtics
+#EXTINF:27 group-title="NBA LIVE APRIL 29" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/u1iBS0s.png" provider="NBALP" provider-logo="" provider-type="iptv",7AM 76ers vs Celtics
 https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=d2e130054b799b95934aab92119f9611ffea572b42b0f382485db6a8fe59d154
 
 #EXTINF:28 group-title="NBA LIVE APRIL 29" tvg-id="iptv/live2" tvg-logo="https://www.mediafire.com/view/dpfygpfzc2vljmf/Hawks_vs_Knicks_3D.png/file" provider="NBALP" provider-logo="" provider-type="iptv",8AM Hawks vs Knicks
