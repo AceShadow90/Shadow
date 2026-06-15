@@ -10,107 +10,36 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 group-logo="https://i.imgur.com/3IfqM9h.png"
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Germany vs Curacao" tvg-logo="" group-title="Soccer World Cup June 15",1am Germany vs Curacao (TELEMUNDO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.formaturamaxi.com.br/tele.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Netherlands vs Japan" tvg-logo="" group-title="Soccer World Cup June 15",4am Netherlands vs Japan (TSN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://ataide0.thelistener.pk/tsn.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Côte D'Ivoire vs Ecuador" tvg-logo="https://api.ppv.to/assets/thumb/6ba091c441b968764b11be74d7e89576-thumbnail.jpg" group-title="Soccer World Cup June 15",7am Côte D'Ivoire vs Ecuador (FS1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.sandhost.dpdns.org/fs1.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sweden vs Tunisia" tvg-logo="https://api.ppv.to/assets/thumb/cf0db2aaed590997e06cc434b2216260-thumbnail.jpg" group-title="Soccer World Cup June 15",10am Sweden vs Tunisia (TELEMUNDO)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Spain vs Cape Verde" tvg-logo="" group-title="Soccer World Cup June 16",12am Spain vs Cape Verde (TELEMUNDO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.sandhost.dpdns.org/tele.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 group-logo="https://i.imgur.com/jqoyj90.png"
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs Los Angeles Angels" tvg-logo="https://api.ppv.to/assets/thumb/884ca9ff40b78671f4a7d26984bcfae9-thumbnail.jpg" group-title="MLB Event June 15",4:07AM Tampa Bay Rays vs Los Angeles Angels
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Belgium vs Egypt" tvg-logo="" group-title="Soccer World Cup June 16",3am Belgium vs Egypt (TSN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb14.m3u8
+https://602.formaturamaxi.com.br/tsn.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Boston Red Sox" tvg-logo="https://api.ppv.to/assets/thumb/c3bd8866ba3eaafe2776fa6d796734dd-thumbnail.jpg" group-title="MLB Event June 15",7:20AM Texas Rangers vs Boston Red Sox
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Saudi Arabia vs Uruguay" tvg-logo="https://api.ppv.to/assets/thumb/980664af37cddb763708b31dbd4ad8c5-thumbnail.jpg" group-title="Soccer World Cup June 16",6am Saudi Arabia vs Uruguay (FS1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb15.m3u8
+https://601.formaturamaxi.com.br/fs1.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 group-logo="https://i.imgur.com/MFedyaJ.png"
-
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes vs Vegas Golden Knights" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/nhl.png" group-title="NHL Event June 15",8AM Carolina Hurricanes vs Vegas Golden Knights
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Saudi Arabia vs Uruguay" tvg-logo="https://api.ppv.to/assets/thumb/980664af37cddb763708b31dbd4ad8c5-thumbnail.jpg" group-title="Soccer World Cup June 16",6am Saudi Arabia vs Uruguay (ARABIC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.formaturamaxi.com.br/nhl.m3u8
+https://601.formaturamaxi.com.br/bein.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes vs Vegas Golden Knights" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/nhl.png" group-title="NHL Event June 15",8AM Carolina Hurricanes vs Vegas Golden Knights S2
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Iran vs New Zealand" tvg-logo="" group-title="Soccer World Cup June 16",9am Iran vs New Zealand (TELEMUNDO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.sandhost.dpdns.org/nhl.m3u8
+https://daffodil.sandhost.dpdns.org/tele.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 group-logo="https://i.imgur.com/4ptJpjk.png"
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Freedom 250: Topuria vs. Gaethje" tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Event June 15",6AM UFC Freedom 250: Topuria vs. Gaethje (PARA/CBSSN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.sandhost.dpdns.org/happybirthdayabb.m3u8
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Freedom 250: Topuria vs. Gaethje" tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Event June 15",6AM UFC Freedom 250: Topuria vs. Gaethje (STW)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.formaturamaxi.com.br/ufc.m3u8
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Freedom 250: Topuria vs. Gaethje" tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Event June 15",6AM UFC Freedom 250: Topuria vs. Gaethje (TNT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.sandhost.dpdns.org/tnt.m3u8
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Freedom 250: Topuria vs. Gaethje" tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Event June 15",6AM UFC Freedom 250: Topuria vs. Gaethje (STARZ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://ataide0.cloudhostar.com/stream/38.m3u8
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Gonzalez vs. Perez" tvg-logo="https://images.tapology.com/poster_images/143600/profile/Screenshot_20260513-162332_Instagram.jpg?1778685907" group-title="Combat Event June 15",8AM Gonzalez vs. Perez
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/ppv.m3u8
 
 
 
