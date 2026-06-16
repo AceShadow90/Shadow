@@ -7095,3 +7095,68 @@ https://dn721905.ca.archive.org/0/items/ohmy-01-source/Ohmy14%20pt2%28Source%29.
 #EXTINF:0 CUID="53547" tvg-name="OH MY VENUS  S01 E17" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOoCggdm1o6LJ-F2ZuEh4TO4dyFNZg0OynKO8ioNWjJ7Ezb-ZNMQjzNs18&s=10" group-title=" OH MY VENUS",OH MY VENUS  S01 E17
 https://dn721905.ca.archive.org/0/items/ohmy-01-source/Ohmy15%20finale%28Source%29.ia.mp4
 
+
+
+
+
+
+
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s160-c-k-c0x00ffffff-no-rj", ABC News
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec167e906c45ce88f174ea.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s160-c-k-c0x00ffffff-no-rj", Sky News
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67fbdd142dcd3140dfeb94cf.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/IQJ3YwNpaJRPpOM1Gab8xBZiDhsgq2gtM3KZQKk8JCZjhxOPxuuzyUVCTWpyp9eAEyS-QQsdRA=s160-c-k-c0x00ffffff-no-rj", Al Jazeera English
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1789906c45ce88f174ed.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s160-c-k-c0x00ffffff-no-rj", France 24 English
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec187d906c45ce88f174ef.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/9bJu0WRWPRgja30h3i5gh3Mg4T94dVfcm6L8SEhjkM3j-AwqFKQZp1JxLhXpSVYzQjJTOXiw2vM=s160-c-k-c0x00ffffff-no-rj", CBC News
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1a19906c45ce88f174f5.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/sc9xa2bYk6pIuKX3qgMHSrxEkuPmg57JMl_lRaJqCZxuSIeQt1B6BV23c-16Q3b7Aep0on1b=s160-c-k-c0x00ffffff-no-rj", ABC News Australia
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1aaf906c45ce88f174fa.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="Business" tvg-logo="https://yt3.googleusercontent.com/4-w44catDebzaDSUWgereql0G5_z5o7VpJXuIYL_eZ3H1vXy0lTmrole9V500jTUXCnQPZ5CuKQ=s160-c-k-c0x00ffffff-no-rj", Bloomberg Television
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec37366b6d4c4c757bc21b.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/8MyE7rxMBfLZOpYkJVJFm1C8I9jxbceBbOJS9OhrepZMVGxGV-OEJU-UdLOew_qR_l-knETWeu4=s160-c-k-c0x00ffffff-no-rj", Euronews
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/68468f172c832e0842304031.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/3qIMp79Z-ynhtXTYyNcdybHwvtILVk_jNMKTLbasP8F1UYCdtU-FFjTJPNGQCp5KZuNUQ62n9Gk=s160-c-k-c0x00ffffff-no-rj", PBS News Hour
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec431f6b6d4c4c757bc239.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://s1.dmcdn.net/u/8qL5s1bvPW4efQgU2/240x240", CGTN Europe
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec455d6b6d4c4c757bc23d.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/AqzY5ePezRAQ2136-TbM_88d43JfIovkzztge92WKQ4K_ISfJMFA9yuX0Nw87DLWms4W9r2c3Q=s160-c-k-c0x00ffffff-no-rj", LiveNOW from FOX
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67f025011035e1cdf0f3a77c.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="Business" tvg-logo="https://yt3.googleusercontent.com/NAibuY2l9crL-vtoFICFBvRIcMIoerQfXwhTE2jMuEfD9WjR8XHLIOG3SvSB-De-87ZtiiWIgg=s160-c-k-c0x00ffffff-no-rj", Schwab Network
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec40d56b6d4c4c757bc233.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/bCcVVrrV0EhGFJKsSvmeZHA9Y-YzSL9Keqrrr0HWYUPQy3-mVUVNHMbjwt7IoVkpsHt4E6BZ3pM=s160-c-k-c0x00ffffff-no-rj", Reuters
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/684692bab07d2d09008876d7.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s160-c-k-c0x00ffffff-no-rj", NBC News
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/68087a5bf0936e7401492663.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxfAGf2WYRHqMTgrScAVCAKN4ZHqwY89Z_5KirrVNsQTmi=s900-c-k-c0x00ffffff-no-rj", BBC News
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6834bf23e1839196d9bf3b61.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.filmon.com/assets/channels/115/extra_big_logo.png", CNN International
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/683c6b528b54333672cc1302.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png", CNN US
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d10a5d21554d2dbf7249.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/250px-CNN_International_logo.svg.png", CNN (International)
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/681d8980e168f3fa2e0ef249.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", MSNBC USA
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d154fe2a1ee045cb3b21.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.pikpng.com/pngl/m/11-113493_cbs-eye-logo-png-clipart-cbs-eye-logo.png", CBS News 247
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6891faec99515003650f40af.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s900-c-k-c0x00ffffff-no-rj", C-SPAN
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d101fe2a1ee045cb3b15.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.cdnlogo.com/logos/c/96/c-span-2.svg", C-SPAN 2
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d102e5508a7485d4f1a0.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg", CNBC USA
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d109c299e9d4d4fc2c98.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://hugh.cdn.rumble.cloud/video/z8/1/u/n/b/1unba.baa.1-NewsmaxTV-qu1fdv.jpeg", Newsmax
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/689208a9459f32d1c762bfd1.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png", Newsmax2
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/687e9f706624b4f779d6cf55.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", NewsMax TV
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d1605d21554d2dbf7256.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/NSOdTQTWlqMy8O_j32dx-ftfTCHMOt04Hm7KZ4pfAK6-eQzQSZMWvvss90kG8KQfJ7iNP3phyA=s900-c-k-c0x00ffffff-no-rj", DW news
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6817f3d5266df8f7e5068c8c.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", The Weather Channel
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d180fe2a1ee045cb3b24.m3u8?uid=HayabusaTV&pkey=eLgqydCn
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.filmon.com/assets/channels/2677/extra_big_logo.png", One America News
+https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/683d8dbb05b3c7d0ede0358a.m3u8?uid=HayabusaTV&pkey=eLgqydCn
