@@ -10,36 +10,35 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 group-logo="https://i.imgur.com/3IfqM9h.png"
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs Senegal" tvg-logo="" group-title="Soccer World Cup June 17",3am France vs Senegal(TELEMUNDO)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Portugal vs Congo DR" tvg-logo="" group-title="Soccer World Cup June 18",1am Portugal vs Congo DR(TELEMUNDO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.thelistener.pk/tele.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Iraq vs Norway" tvg-logo="https://api.ppv.to/assets/thumb/9c4c09837ca4ec4cc6cb41a030651261-thumbnail.jpg" group-title="Soccer World Cup June 17",6am Iraq vs Norway(TSN)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="England vs Croatia" tvg-logo="https://api.ppv.to/assets/thumb/3aac7801fbffbc6eedf3ac476ed4ce1d-thumbnail.jpg" group-title="Soccer World Cup June 18",4am England vs Croatia(TSN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://602.sandhost.dpdns.org/tsn.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs Algeria" tvg-logo="https://api.ppv.to/assets/thumb/c2e691d40140db20766ef98b0a0d9a35-thumbnail.jpg" group-title="Soccer World Cup June 17",9am Argentina vs Algeria(FOX)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.sandhost.dpdns.org/fox.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs Algeria" tvg-logo="https://api.ppv.to/assets/thumb/c2e691d40140db20766ef98b0a0d9a35-thumbnail.jpg" group-title="Soccer World Cup June 17",9am Argentina vs Algeria(BBC UK)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/bbc.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Austria vs Jordan" tvg-logo="https://api.ppv.to/assets/thumb/a1d41befd3fabb5f9d5645abc9490d01-thumbnail.jpg" group-title="Soccer World Cup June 17",9am Austria vs Jordan(FS1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ghana vs Panama" tvg-logo="https://api.ppv.to/assets/thumb/765cf636cf77b72df889feffe7c2cae5-thumbnail.jpg" group-title="Soccer World Cup June 18",7am Ghana vs Panama(FS1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://602.thelistener.pk/fox.m3u8
 
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Uzbekistan vs Colombia" tvg-logo="https://ppv.to/live/wc/2026-06-17/uzb-col" group-title="Soccer World Cup June 18",10am Uzbekistan vs Colombia(BEIN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://601.thelistener.pk/bein.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Uzbekistan vs Colombia" tvg-logo="https://ppv.to/live/wc/2026-06-17/uzb-col" group-title="Soccer World Cup June 18",10am Uzbekistan vs Colombia(BBC UK)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://601.sandhost.dpdns.org/bbc.m3u8
 
 
 
@@ -49,91 +48,55 @@ https://602.thelistener.pk/fox.m3u8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/jqoyj90.png"
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs Philadelphia Phillies" tvg-logo="https://api.ppv.to/assets/thumb/3af831a52eaa2d58ce8f27cdfe7ba9a0-thumbnail.jpg" group-title="MLB Event June 17",6:40AM Miami Marlins vs Philadelphia Phillies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.thelistener.pk/mlb.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals vs Washington Nationals" tvg-logo="https://api.ppv.to/assets/thumb/35abebb4fe7889aea82cef7cfd478895-thumbnail.jpg" group-title="MLB Event June 17",6:45AM Kansas City Royals vs Washington Nationals
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb2.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs Boston Red Sox" tvg-logo="https://api.ppv.to/assets/thumb/afea344de742bb9d77ad123529b609c3-thumbnail.jpg" group-title="MLB Event June 17",6:45AM Toronto Blue Jays vs Boston Red Sox
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb3.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs New York Yankees" tvg-logo="https://api.ppv.to/assets/thumb/a312ecd5fd1da4fb5cabf790f96f7c3b-thumbnail.jpg" group-title="MLB Event June 17",7:05AM Chicago White Sox vs New York Yankees
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.sandhost.dpdns.org/mlb4.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Cincinnati Reds" tvg-logo="https://api.ppv.to/assets/thumb/fea052623e2ac343d86a0e5a4ed2ce98-thumbnail.jpg" group-title="MLB Event June 17",7:10AM New York Mets vs Cincinnati Reds
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb5.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Atlanta Braves" tvg-logo="https://api.ppv.to/assets/thumb/3e14d3c4360c12d7f794ff7c01109732-thumbnail.jpg" group-title="MLB Event June 17",7:15AM San Francisco Giants vs Atlanta Braves
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb6.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Milwaukee Brewers" tvg-logo="https://api.ppv.to/assets/thumb/86e592fc67e2846a81ed5364d52d9c5a-thumbnail.jpg" group-title="MLB Event June 17",7:40AM Cleveland Guardians vs Milwaukee Brewers
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs Los Angeles Dodgers" tvg-logo="https://api.ppv.to/assets/thumb/de5bf8a2010bf2be43c2d1de17b712ea-thumbnail.jpg" group-title="MLB Event June 18",3:10AM Tampa Bay Rays vs Los Angeles Dodgers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.formaturamaxi.com.br/mlb7.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres vs St. Louis Cardinals" tvg-logo="https://api.ppv.to/assets/thumb/06bbc7f18327f6b06cbdddc8f6e9a105-thumbnail.jpg" group-title="MLB Event June 17",7:45AM San Diego Padres vs St. Louis Cardinals
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Arizona Diamondbacks" tvg-logo="https://api.ppv.to/assets/thumb/62b7baed62673f6c7b2012e7134771c9-thumbnail.jpg" group-title="MLB Event June 18",3:40AM Los Angeles Angels vs Arizona Diamondbacks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.formaturamaxi.com.br/mlb8.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs Chicago Cubs" tvg-logo="https://api.ppv.to/assets/thumb/74367630089ec91d5fb3d7d6f8f86fa3-thumbnail.jpg" group-title="MLB Event June 17",8:05AM Colorado Rockies vs Chicago Cubs
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs Boston Red Sox" tvg-logo="https://api.ppv.to/assets/thumb/afea344de742bb9d77ad123529b609c3-thumbnail.jpg" group-title="MLB Event June 18",6:45AM Toronto Blue Jays vs Boston Red Sox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.formaturamaxi.com.br/mlb9.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins vs Texas Rangers" tvg-logo="https://api.ppv.to/assets/thumb/e8ce9a1c1b7030aeb7b123c7a943f99d-thumbnail.jpg" group-title="MLB Event June 17",8:05AM Minnesota Twins vs Texas Rangers
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs New York Yankees" tvg-logo="https://api.ppv.to/assets/thumb/a312ecd5fd1da4fb5cabf790f96f7c3b-thumbnail.jpg" group-title="MLB Event June 18",7:05AM Chicago White Sox vs New York Yankees
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.formaturamaxi.com.br/mlb10.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Houston Astros" tvg-logo="https://api.ppv.to/assets/thumb/90d8eb4834d8e0e1fc32a14232a0cd42-thumbnail.jpg" group-title="MLB Event June 17",8:10AM Detroit Tigers vs Houston Astros
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Atlanta Braves" tvg-logo="https://api.ppv.to/assets/thumb/3e14d3c4360c12d7f794ff7c01109732-thumbnail.jpg" group-title="MLB Event June 18",7:15AM San Francisco Giants vs Atlanta Braves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.formaturamaxi.com.br/mlb11.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Arizona Diamondbacks" tvg-logo="https://api.ppv.to/assets/thumb/62b7baed62673f6c7b2012e7134771c9-thumbnail.jpg" group-title="MLB Event June 17",9:40AM Los Angeles Angels vs Arizona Diamondbacks
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Milwaukee Brewers" tvg-logo="https://api.ppv.to/assets/thumb/86e592fc67e2846a81ed5364d52d9c5a-thumbnail.jpg" group-title="MLB Event June 18",7:40AM Cleveland Guardians vs Milwaukee Brewers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.formaturamaxi.com.br/mlb12.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Athletics" tvg-logo="https://api.ppv.to/assets/thumb/176e3d24f176ddafb5e52008e28bc2ba-thumbnail.jpg" group-title="MLB Event June 17",9:40AM Pittsburgh Pirates vs Athletics
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs Chicago Cubs" tvg-logo="https://api.ppv.to/assets/thumb/74367630089ec91d5fb3d7d6f8f86fa3-thumbnail.jpg" group-title="MLB Event June 18",8:05AM Colorado Rockies vs Chicago Cubs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.formaturamaxi.com.br/mlb13.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Seattle Mariners" tvg-logo="https://api.ppv.to/assets/thumb/35ce677c79e0574b0a1aa8ae8592df1c-thumbnail.jpg" group-title="MLB Event June 17",9:40AM Baltimore Orioles vs Seattle Mariners
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Athletics" tvg-logo="https://api.ppv.to/assets/thumb/176e3d24f176ddafb5e52008e28bc2ba-thumbnail.jpg" group-title="MLB Event June 18"9:40AM Pittsburgh Pirates vs Athletics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.formaturamaxi.com.br/mlb14.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs Los Angeles Dodgers" tvg-logo="https://api.ppv.to/assets/thumb/de5bf8a2010bf2be43c2d1de17b712ea-thumbnail.jpg" group-title="MLB Event June 17",10:10AM Tampa Bay Rays vs Los Angeles Dodgers
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Seattle Mariners" tvg-logo="https://api.ppv.to/assets/thumb/35ce677c79e0574b0a1aa8ae8592df1c-thumbnail.jpg" group-title="MLB Event June 18",9:40AM Baltimore Orioles vs Seattle Mariners
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
@@ -149,17 +112,12 @@ https://601.formaturamaxi.com.br/mlb15.m3u8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/4ptJpjk.png"
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE NXT" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Combat Event June 17",8AM WWE NXT
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Combat Event June 18",8AM AEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
+https://601.thelistener.pk/aew.m3u8
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE RAW" tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Combat Event June 17",8AM WWE NXT(S2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.thelistener.pk/wwe.m3u8
 
 
 
@@ -7097,66 +7055,3 @@ https://dn721905.ca.archive.org/0/items/ohmy-01-source/Ohmy15%20finale%28Source%
 
 
 
-
-
-
-
-#EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s160-c-k-c0x00ffffff-no-rj", ABC News
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec167e906c45ce88f174ea.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s160-c-k-c0x00ffffff-no-rj", Sky News
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67fbdd142dcd3140dfeb94cf.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/IQJ3YwNpaJRPpOM1Gab8xBZiDhsgq2gtM3KZQKk8JCZjhxOPxuuzyUVCTWpyp9eAEyS-QQsdRA=s160-c-k-c0x00ffffff-no-rj", Al Jazeera English
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1789906c45ce88f174ed.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s160-c-k-c0x00ffffff-no-rj", France 24 English
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec187d906c45ce88f174ef.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/9bJu0WRWPRgja30h3i5gh3Mg4T94dVfcm6L8SEhjkM3j-AwqFKQZp1JxLhXpSVYzQjJTOXiw2vM=s160-c-k-c0x00ffffff-no-rj", CBC News
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1a19906c45ce88f174f5.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/sc9xa2bYk6pIuKX3qgMHSrxEkuPmg57JMl_lRaJqCZxuSIeQt1B6BV23c-16Q3b7Aep0on1b=s160-c-k-c0x00ffffff-no-rj", ABC News Australia
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec1aaf906c45ce88f174fa.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="Business" tvg-logo="https://yt3.googleusercontent.com/4-w44catDebzaDSUWgereql0G5_z5o7VpJXuIYL_eZ3H1vXy0lTmrole9V500jTUXCnQPZ5CuKQ=s160-c-k-c0x00ffffff-no-rj", Bloomberg Television
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec37366b6d4c4c757bc21b.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/8MyE7rxMBfLZOpYkJVJFm1C8I9jxbceBbOJS9OhrepZMVGxGV-OEJU-UdLOew_qR_l-knETWeu4=s160-c-k-c0x00ffffff-no-rj", Euronews
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/68468f172c832e0842304031.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/3qIMp79Z-ynhtXTYyNcdybHwvtILVk_jNMKTLbasP8F1UYCdtU-FFjTJPNGQCp5KZuNUQ62n9Gk=s160-c-k-c0x00ffffff-no-rj", PBS News Hour
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec431f6b6d4c4c757bc239.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://s1.dmcdn.net/u/8qL5s1bvPW4efQgU2/240x240", CGTN Europe
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec455d6b6d4c4c757bc23d.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/AqzY5ePezRAQ2136-TbM_88d43JfIovkzztge92WKQ4K_ISfJMFA9yuX0Nw87DLWms4W9r2c3Q=s160-c-k-c0x00ffffff-no-rj", LiveNOW from FOX
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67f025011035e1cdf0f3a77c.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="Business" tvg-logo="https://yt3.googleusercontent.com/NAibuY2l9crL-vtoFICFBvRIcMIoerQfXwhTE2jMuEfD9WjR8XHLIOG3SvSB-De-87ZtiiWIgg=s160-c-k-c0x00ffffff-no-rj", Schwab Network
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/67ec40d56b6d4c4c757bc233.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/bCcVVrrV0EhGFJKsSvmeZHA9Y-YzSL9Keqrrr0HWYUPQy3-mVUVNHMbjwt7IoVkpsHt4E6BZ3pM=s160-c-k-c0x00ffffff-no-rj", Reuters
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/684692bab07d2d09008876d7.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s160-c-k-c0x00ffffff-no-rj", NBC News
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/68087a5bf0936e7401492663.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nxfAGf2WYRHqMTgrScAVCAKN4ZHqwY89Z_5KirrVNsQTmi=s900-c-k-c0x00ffffff-no-rj", BBC News
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6834bf23e1839196d9bf3b61.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.filmon.com/assets/channels/115/extra_big_logo.png", CNN International
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/683c6b528b54333672cc1302.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png", CNN US
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d10a5d21554d2dbf7249.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/250px-CNN_International_logo.svg.png", CNN (International)
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/681d8980e168f3fa2e0ef249.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", MSNBC USA
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d154fe2a1ee045cb3b21.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.pikpng.com/pngl/m/11-113493_cbs-eye-logo-png-clipart-cbs-eye-logo.png", CBS News 247
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6891faec99515003650f40af.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mE7sPnKhbJKbqDc9ESEjaK0Ip3jwQkGY4a3USPkxEXSUw=s900-c-k-c0x00ffffff-no-rj", C-SPAN
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d101fe2a1ee045cb3b15.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.cdnlogo.com/logos/c/96/c-span-2.svg", C-SPAN 2
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d102e5508a7485d4f1a0.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg", CNBC USA
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d109c299e9d4d4fc2c98.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://hugh.cdn.rumble.cloud/video/z8/1/u/n/b/1unba.baa.1-NewsmaxTV-qu1fdv.jpeg", Newsmax
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/689208a9459f32d1c762bfd1.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png", Newsmax2
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/687e9f706624b4f779d6cf55.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", NewsMax TV
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d1605d21554d2dbf7256.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/NSOdTQTWlqMy8O_j32dx-ftfTCHMOt04Hm7KZ4pfAK6-eQzQSZMWvvss90kG8KQfJ7iNP3phyA=s900-c-k-c0x00ffffff-no-rj", DW news
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6817f3d5266df8f7e5068c8c.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.vecteezy.com/system/resources/previews/008/687/836/non_2x/moose-deer-logo-free-vector.jpg", The Weather Channel
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/6852d180fe2a1ee045cb3b24.m3u8?uid=HayabusaTV&pkey=eLgqydCn
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://static.filmon.com/assets/channels/2677/extra_big_logo.png", One America News
-https://api.m3use.projectmoose.xyz/m3u/benmoose39/English News/683d8dbb05b3c7d0ede0358a.m3u8?uid=HayabusaTV&pkey=eLgqydCn
