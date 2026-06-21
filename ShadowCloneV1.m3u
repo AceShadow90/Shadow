@@ -214,6 +214,20 @@ https://daffodil.sman1asjap.my.id/mlb12.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.sman1asjap.my.id/mlb14.m3u8
 
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Seattle Mariners" tvg-logo="https://api.ppv.to/assets/thumb/02a2fd07ea55992126e844c4bc1daecb-thumbnail.jpg" group-title="MLB Event June 22",4:10AM Boston Red Sox vs Seattle Mariners s2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://601.sman1asjap.my.id/mlb14.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Seattle Mariners" tvg-logo="https://api.ppv.to/assets/thumb/02a2fd07ea55992126e844c4bc1daecb-thumbnail.jpg" group-title="MLB Event June 22",4:10AM Boston Red Sox vs Seattle Mariners s3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://601.formaturamaxi.com.br/mlb14.m3u8
+
+
+
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Philadelphia Phillies" tvg-logo="https://api.ppv.to/assets/thumb/d394e4f61515e10b48d37f904cc7fcfd-thumbnail.jpg" group-title="MLB Event June 22",7:20AM New York Mets vs Philadelphia Phillies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
