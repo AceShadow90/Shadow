@@ -131,13 +131,19 @@ https://ataide0.sman1asjap.my.id/tsn.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.sman1asjap.my.id/mlb.m3u8
+https://601.elugohome.com/mlb.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals vs Tampa Bay Rays" tvg-logo="https://api.ppv.to/assets/thumb/fda72535ed1fa2cf4e8ac894d6a97bb8-thumbnail.jpg" group-title="MLB Event June 23",6:40AM Kansas City Royals vs Tampa Bay Rays
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.sman1asjap.my.id/mlb2.m3u8
+https://601.elugohome.com/mlb2.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals vs Tampa Bay Rays" tvg-logo="https://api.ppv.to/assets/thumb/fda72535ed1fa2cf4e8ac894d6a97bb8-thumbnail.jpg" group-title="MLB Event June 23",6:40AM Kansas City Royals vs Tampa Bay Rayss2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://601.mercadodavoz.com.br/mlb2.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Miami Marlins" tvg-logo="https://api.ppv.to/assets/thumb/8bc1028c808db5ef1a1e9b9c2fadcbd3-thumbnail.jpg" group-title="MLB Event June 23",6:40AM Texas Rangers vs Miami Marlins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
