@@ -13,20 +13,26 @@ https://vip.dytt-network.com/20260611/35782_b948738d/3000k/hls/mixed.m3u8
 #EXTM3U
 #EXTINF:-1 group-logo="https://poster.starhubgo.com/Linear_channels2/252_1920x1080_HTV.png"
 
-#EXTINF:-1  tvg-id="udptv/starhubfifawcch1" tvg-logo="https://poster.starhubgo.com/Linear_channels2/251_1920x1080_HTV.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",STARHUB | FIFAWCCh1
-https://box.djdoolky76.net/stream/udptv/starhubfifawcch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1  tvg-id="udptv/m6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/m6-ch.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",M6
+https://box.djdoolky76.net/stream/udptv/m6/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1  tvg-id="udptv/starhubfifawcch2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/252_1920x1080_HTV.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",STARHUB | FIFAWCCh2
-https://box.djdoolky76.net/stream/udptv/starhubfifawcch2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1  tvg-id="udptv/m64k" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/m6-ch.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",M6 4K
+https://box.djdoolky76.net/stream/udptv/m64k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1  tvg-id="udptv/foxfifa" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FOX | FIFA
-https://box.djdoolky76.net/stream/udptv/foxfifa/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1  tvg-id="udptv/tsn1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN1
+https://box.djdoolky76.net/stream/udptv/tsn1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptv/tsn4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN4
+https://box.djdoolky76.net/stream/udptv/tsn4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptvus/telemundoboston" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TELEMUNDO | BOSTON
+https://box.djdoolky76.net/stream/udptvus/telemundoboston/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptvus/telemundobayarea" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TELEMUNDO | BAY AREA
+https://box.djdoolky76.net/stream/udptvus/telemundobayarea/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
 #EXTINF:-1  tvg-id="udptv/foxfifafhd" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FOX | FIFA FHD
 https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/foxfifa4k" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FOX | FIFA 4K
-https://box.djdoolky76.net/stream/udptv/foxfifa4k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
 #EXTINF:-1  tvg-id="udptvus/fox4k" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FOX 4K
 https://box.djdoolky76.net/stream/udptvus/fox4k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
@@ -37,30 +43,6 @@ https://box.djdoolky76.net/stream/udptvus/fs1/master.m3u8?u=gratisph&p=b7594b1f3
 #EXTINF:-1  tvg-id="udptvus/fs2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FS2
 https://box.djdoolky76.net/stream/udptvus/fs2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1  tvg-id="udptv/tsn1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN1
-https://box.djdoolky76.net/stream/udptv/tsn1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/tsn2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN2
-https://box.djdoolky76.net/stream/udptv/tsn2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/tsn3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN3
-https://box.djdoolky76.net/stream/udptv/tsn3/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/tsn4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN4
-https://box.djdoolky76.net/stream/udptv/tsn4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/tsn5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN5
-https://box.djdoolky76.net/stream/udptv/tsn5/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/beinsports1" tvg-logo="https://poster.starhubgo.com/Linear_channels2/213_1920x1080_HTV.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",Bein Sports 1
-https://box.djdoolky76.net/stream/udptv/beinsports1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/beinsports2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/211_1920x1080_HTV.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",Bein Sports 2
-https://box.djdoolky76.net/stream/udptv/beinsports2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/beinsports3" tvg-logo="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",Bein Sports 3
-https://box.djdoolky76.net/stream/udptv/beinsports3/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
 
 
 
@@ -70,25 +52,25 @@ https://box.djdoolky76.net/stream/udptv/beinsports3/master.m3u8?u=gratisph&p=b75
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 group-logo="https://i.imgur.com/3IfqM9h.png"
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs. Austria" tvg-logo="https://api.ppv.to/assets/thumb/d4451c233beb8599ad755857139ca7a6-thumbnail.jpg" group-title="Soccer World Cup June 23",1am Argentina vs. Austria(TELEMUNDO)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs. Austria" tvg-logo="https://api.ppv.to/assets/thumb/d4451c233beb8599ad755857139ca7a6-thumbnail.jpg" group-title="FIFA World Cup June 23",1am Argentina vs. Austria(TELEMUNDO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.elugohome.com/tele.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs. Iraq" tvg-logo="https://api.ppv.to/assets/thumb/fa2b0e644be0dcebf7bdf290a65eafd2-thumbnail.jpg" group-title="Soccer World Cup June 23",5am France vs. Iraq(TSN)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs. Iraq" tvg-logo="https://api.ppv.to/assets/thumb/fa2b0e644be0dcebf7bdf290a65eafd2-thumbnail.jpg" group-title="FIFA World Cup June 23",5am France vs. Iraq(TSN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://ataide0.elugohome.com/tsn.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs. Senegal" tvg-logo="https://api.ppv.to/assets/thumb/6bf8122b702d798ba31186e6619c89e4-thumbnail.jpg" group-title="Soccer World Cup June 23",8am Norway vs. Senegal(FOX)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs. Senegal" tvg-logo="https://api.ppv.to/assets/thumb/6bf8122b702d798ba31186e6619c89e4-thumbnail.jpg" group-title="FIFA World Cup June 23",8am Norway vs. Senegal(FOX)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://602.elugohome.com/fox.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Jordan vs. Algeria" tvg-logo="https://api.ppv.to/assets/thumb/aa16f1715060b271db98cd3685a23547-thumbnail.jpg" group-title="Soccer World Cup June 23",11am Jordan vs. Algeria(TSN)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Jordan vs. Algeria" tvg-logo="https://api.ppv.to/assets/thumb/aa16f1715060b271db98cd3685a23547-thumbnail.jpg" group-title="FIFA World Cup June 23",11am Jordan vs. Algeria(TSN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
