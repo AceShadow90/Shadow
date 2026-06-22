@@ -74,15 +74,39 @@ https://box.djdoolky76.net/stream/udptv/beinsports3/master.m3u8?u=gratisph&p=b75
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.sman1asjap.my.id/tele.m3u8
+https://ataide0.elugohome.com/tele.m3u8
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs. Iraq" tvg-logo="https://api.ppv.to/assets/thumb/fa2b0e644be0dcebf7bdf290a65eafd2-thumbnail.jpg" group-title="Soccer World Cup June 23",5am France vs. Iraq(TSN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://ataide0.elugohome.com/tsn.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs. Iraq" tvg-logo="https://api.ppv.to/assets/thumb/fa2b0e644be0dcebf7bdf290a65eafd2-thumbnail.jpg" group-title="Soccer World Cup June 23",5am France vs. Iraq(TSN)s2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://ataide0.formaturamaxi.com.br/tsn.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs. Iraq" tvg-logo="https://api.ppv.to/assets/thumb/fa2b0e644be0dcebf7bdf290a65eafd2-thumbnail.jpg" group-title="Soccer World Cup June 23",5am France vs. Iraq(TSN)s3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://ataide0.sman1asjap.my.id/tsn.m3u8
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs. Senegal" tvg-logo="https://api.ppv.to/assets/thumb/6bf8122b702d798ba31186e6619c89e4-thumbnail.jpg" group-title="Soccer World Cup June 23",8am Norway vs. Senegal(FOX)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://602.elugohome.com/fox.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs. Senegal" tvg-logo="https://api.ppv.to/assets/thumb/6bf8122b702d798ba31186e6619c89e4-thumbnail.jpg" group-title="Soccer World Cup June 23",8am Norway vs. Senegal(FOX)s2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://602.formaturamaxi.com.br/fox.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs. Senegal" tvg-logo="https://api.ppv.to/assets/thumb/6bf8122b702d798ba31186e6619c89e4-thumbnail.jpg" group-title="Soccer World Cup June 23",8am Norway vs. Senegal(FOX)s2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
