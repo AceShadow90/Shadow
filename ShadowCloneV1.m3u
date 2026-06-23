@@ -37,15 +37,9 @@ https://box.djdoolky76.net/stream/udptvus/telemundobayarea/master.m3u8?u=gratisp
 #EXTINF:-1 group-logo="https://i.imgur.com/3IfqM9h.png"
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs. Austria" tvg-logo="https://api.ppv.to/assets/thumb/d4451c233beb8599ad755857139ca7a6-thumbnail.jpg" group-title="FIFA World Cup June 24",1am Argentina vs. Austria(TELEMUNDO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.elugohome.com/tele.m3u8
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs. Iraq" tvg-logo="https://api.ppv.to/assets/thumb/fa2b0e644be0dcebf7bdf290a65eafd2-thumbnail.jpg" group-title="FIFA World Cup June 23",5am France vs. Iraq(TSN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
 https://ataide0.elugohome.com/tsn.m3u8
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs. Senegal" tvg-logo="https://api.ppv.to/assets/thumb/6bf8122b702d798ba31186e6619c89e4-thumbnail.jpg" group-title="FIFA World Cup June 23",8am Norway vs. Senegal(FOX)
