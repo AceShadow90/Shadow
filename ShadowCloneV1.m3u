@@ -37,6 +37,18 @@ https://box.djdoolky76.net/stream/udptvus/fs1/master.m3u8?u=gratisph&p=b7594b1f3
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.elugohome.com/tele.m3u8
 
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs. Austria" tvg-logo="https://api.ppv.to/assets/thumb/d4451c233beb8599ad755857139ca7a6-thumbnail.jpg" group-title="FIFA World Cup June 23",1am Argentina vs. Austria(TELEMUNDO)2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://daffodil.mercadodavoz.com.br/tele.m3u8
+
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Argentina vs. Austria" tvg-logo="https://api.ppv.to/assets/thumb/d4451c233beb8599ad755857139ca7a6-thumbnail.jpg" group-title="FIFA World Cup June 23",1am Argentina vs. Austria(TELEMUNDO)3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://daffodil.formaturamaxi.com.br/tele.m3u8
+
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs. Iraq" tvg-logo="https://api.ppv.to/assets/thumb/fa2b0e644be0dcebf7bdf290a65eafd2-thumbnail.jpg" group-title="FIFA World Cup June 23",5am France vs. Iraq(TSN) (SUSPENDED)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
