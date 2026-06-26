@@ -6876,6 +6876,24 @@ https://602.formaturamaxi.com.br/tsn.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://602.formaturamaxi.com.br/mlb.m3u8
 
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Detroit Tigers (JUN 27 @ 01:40 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/a1f4e369cbd32d1bc7fcad5b72404667-thumbnail.jpg" group-title="MLB",Houston Astros vs Detroit Tigers (JUN 27 @ 01:40 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://602.sman1asjap.my.id/mlb.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Detroit Tigers (JUN 27 @ 01:40 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/a1f4e369cbd32d1bc7fcad5b72404667-thumbnail.jpg" group-title="MLB",Houston Astros vs Detroit Tigers (JUN 27 @ 01:40 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://602.elugohome.com/mlb.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Detroit Tigers (JUN 27 @ 01:40 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/a1f4e369cbd32d1bc7fcad5b72404667-thumbnail.jpg" group-title="MLB",Houston Astros vs Detroit Tigers (JUN 27 @ 01:40 PM PHT)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://602.mercadodavoz.com.br/mlb.m3u8
+
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cincinnati Reds vs Pittsburgh Pirates (JUN 27 @ 01:40 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/8e9f693864cd77a6ccdcf01427ad4231-thumbnail.jpg" group-title="MLB",Cincinnati Reds vs Pittsburgh Pirates (JUN 27 @ 01:40 PM PHT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
@@ -6995,5 +7013,4 @@ https://ataide0.formaturamaxi.com.br/tsn.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://602.formaturamaxi.com.br/tsn.m3u8
-
 
