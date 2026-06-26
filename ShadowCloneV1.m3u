@@ -64,40 +64,6 @@ https://box.djdoolky76.net/stream/udptv/pbarush/master.m3u8?u=gratisph&p=b7594b1
 
 
 
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 group-logo="https://i.imgur.com/3IfqM9h.png"
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs France" tvg-logo="https://api.ppv.to/assets/thumb/3f029522114837d358231458066ba549-thumbnail.jpg" group-title="FIFA World Cup June 27",3am Norway vs France(FOX)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.viloud.tv/
-#EXTVLCOPT:http-origin=https://player.viloud.tv
-https://602.mercadodavoz.com.br/fox.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs France" tvg-logo="https://api.ppv.to/assets/thumb/3f029522114837d358231458066ba549-thumbnail.jpg" group-title="FIFA World Cup June 27",3am Norway vs France(FOX)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.viloud.tv/
-#EXTVLCOPT:http-origin=https://player.viloud.tv
-https://602.sman1asjap.my.id/fox.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs France" tvg-logo="https://api.ppv.to/assets/thumb/3f029522114837d358231458066ba549-thumbnail.jpg" group-title="FIFA World Cup June 27",3am Norway vs France(FOX)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.viloud.tv/
-#EXTVLCOPT:http-origin=https://player.viloud.tv
-https://602.formaturamaxi.com.br/fox.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Norway vs France" tvg-logo="https://api.ppv.to/assets/thumb/3f029522114837d358231458066ba549-thumbnail.jpg" group-title="FIFA World Cup June 27",3am Norway vs France(FOX)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.viloud.tv/
-#EXTVLCOPT:http-origin=https://player.viloud.tv
-https://602.elugohome.com/fox.m3u8
-
-
-
-
-
-
-
-
 
 
 
