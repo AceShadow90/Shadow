@@ -15,12 +15,6 @@ https://vip.dytt-network.com/20260611/35782_b948738d/3000k/hls/mixed.m3u8
 
 #EXTM3U x-tvg-url="https://cdn2.djdoolky76.com/epg.xml"
 
-#EXTINF:-1 tvg-id="wctv1" tvg-name="WCTV" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100422-06frvrwe8w3np6fv.png" group-title="FIFA WORLD CUP 2026", WCTV
-http://wccdn.djdoolky76.net/stream/wctv/index.m3u8
-
-#EXTINF:-1 tvg-id="wctv2" tvg-name="WCTV2" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100741-xohdgirjqlyydgxq.png" group-title="FIFA WORLD CUP 2026", WCTV2
-http://wccdn.djdoolky76.net/stream/wctv2/index.m3u8
-
 #EXTINF:-1  tvg-id="udptv/foxfifafhd" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FOX | FIFA FHD
 https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
@@ -35,6 +29,18 @@ https://box.djdoolky76.net/stream/udptv/tsn1/master.m3u8?u=gratisph&p=b7594b1f3f
 
 #EXTINF:-1  tvg-id="udptv/tsn4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN4
 https://box.djdoolky76.net/stream/udptv/tsn4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptv/m6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/m6-ch.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",M6
+https://box.djdoolky76.net/stream/udptv/m6/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptv/m64k" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/switzerland/m6-ch.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",M6 4K
+https://box.djdoolky76.net/stream/udptv/m64k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1 tvg-id="wctv1" tvg-name="WCTV" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100422-06frvrwe8w3np6fv.png" group-title="FIFA WORLD CUP 2026", WCTV
+http://wccdn.djdoolky76.net/stream/wctv/index.m3u8
+
+#EXTINF:-1 tvg-id="wctv2" tvg-name="WCTV2" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100741-xohdgirjqlyydgxq.png" group-title="FIFA WORLD CUP 2026", WCTV2
+http://wccdn.djdoolky76.net/stream/wctv2/index.m3u8
 
 
 
@@ -54,7 +60,6 @@ https://box.djdoolky76.net/stream/udptvus/nbatvnbalp/master.m3u8?u=gratisph&p=b7
 
 #EXTINF:-1  tvg-id="udptv/pbarush" tvg-logo="https://i.imgur.com/tvxCVRr.png" group-title="BASKETBALL" provider="" provider-type="iptv" provider-logo="",PBA Rush
 https://box.djdoolky76.net/stream/udptv/pbarush/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
 
 
 
