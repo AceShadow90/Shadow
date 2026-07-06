@@ -48,7 +48,24 @@ https://box.djdoolky76.net/stream/udptv/pbarush/master.m3u8?u=gratisph&p=b7594b1
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="FOX 4K United States UHD Feed English (HDR)" tvg-logo="" group-title="FORIEGN CHANNELS",FOX 4K United States UHD Feed English (HDR)
+https://api.zlive.st/p/b8d12bcd88cf5955/index.m3u8
 
+#EXTINF:-1 tvg-name="FOX FHD United States FHD Feed English" tvg-logo="" group-title="FORIEGN CHANNELS",FOX FHD United States FHD Feed English
+https://api.zlive.st/p/b924bdacf7babe67/index.m3u8
+
+#EXTINF:-1 tvg-name="TSN Canada 4K Canada UHD Broadcast Feed" tvg-logo="" group-title="FORIEGN CHANNELS",TSN Canada 4K Canada UHD Broadcast Feed
+https://api.zlive.st/p/f6a5d0cdf6543a76/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN MAX 3 4K Arabic FHD beIN feed" tvg-logo="" group-title="FORIEGN CHANNELS",beIN MAX 3 4K Arabic FHD beIN feed
+https://api.zlive.st/p/0fa9f6f5d32f810b/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 1 United States FHD Broadcast Feed" tvg-logo="" group-title="FORIEGN CHANNELS",FOX Sports 1 United States FHD Broadcast Feed
+https://api.zlive.st/p/4a67e231fb431711/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports 2 United States 1080p Broadcast feed" tvg-logo="" group-title="FORIEGN CHANNELS",FOX Sports 2 United States 1080p Broadcast feed
+https://api.zlive.st/p/8dddaeb4f3fef64d/index.m3u8
 
 
 
