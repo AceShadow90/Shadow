@@ -49,24 +49,50 @@ https://box.djdoolky76.net/stream/udptv/pbarush/master.m3u8?u=gratisph&p=b7594b1
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="FOX 4K United States UHD Feed English (HDR)" tvg-logo="" group-title="FORIEGN CHANNELS",FOX 4K United States UHD Feed English (HDR)
+#EXTINF:-1 tvg-name="FOX 4K United States UHD Feed English (HDR)" tvg-logo="" group-title="SPORTS CHANNELS?",FOX 4K United States UHD Feed English (HDR)
 https://api.zlive.st/p/b8d12bcd88cf5955/index.m3u8
 
-#EXTINF:-1 tvg-name="FOX FHD United States FHD Feed English" tvg-logo="" group-title="FORIEGN CHANNELS",FOX FHD United States FHD Feed English
+#EXTINF:-1 tvg-name="FOX FHD United States FHD Feed English" tvg-logo="" group-title="SPORTS CHANNELS?",FOX FHD United States FHD Feed English
 https://api.zlive.st/p/b924bdacf7babe67/index.m3u8
 
-#EXTINF:-1 tvg-name="TSN Canada 4K Canada UHD Broadcast Feed" tvg-logo="" group-title="FORIEGN CHANNELS",TSN Canada 4K Canada UHD Broadcast Feed
+#EXTINF:-1 tvg-name="TSN Canada 4K Canada UHD Broadcast Feed" tvg-logo="" group-title="SPORTS CHANNELS?",TSN Canada 4K Canada UHD Broadcast Feed
 https://api.zlive.st/p/f6a5d0cdf6543a76/index.m3u8
 
-#EXTINF:-1 tvg-name="beIN MAX 3 4K Arabic FHD beIN feed" tvg-logo="" group-title="FORIEGN CHANNELS",beIN MAX 3 4K Arabic FHD beIN feed
+#EXTINF:-1 tvg-name="beIN MAX 3 4K Arabic FHD beIN feed" tvg-logo="" group-title="SPORTS CHANNELS?",beIN MAX 3 4K Arabic FHD beIN feed
 https://api.zlive.st/p/0fa9f6f5d32f810b/index.m3u8
 
-#EXTINF:-1 tvg-name="FOX Sports 1 United States FHD Broadcast Feed" tvg-logo="" group-title="FORIEGN CHANNELS",FOX Sports 1 United States FHD Broadcast Feed
+#EXTINF:-1 tvg-name="FOX Sports 1 United States FHD Broadcast Feed" tvg-logo="" group-title="SPORTS CHANNELS?",FOX Sports 1 United States FHD Broadcast Feed
 https://api.zlive.st/p/4a67e231fb431711/index.m3u8
 
-#EXTINF:-1 tvg-name="FOX Sports 2 United States 1080p Broadcast feed" tvg-logo="" group-title="FORIEGN CHANNELS",FOX Sports 2 United States 1080p Broadcast feed
+#EXTINF:-1 tvg-name="FOX Sports 2 United States 1080p Broadcast feed" tvg-logo="" group-title="SPORTS CHANNELS?",FOX Sports 2 United States 1080p Broadcast feed
 https://api.zlive.st/p/8dddaeb4f3fef64d/index.m3u8
 
+#EXTINF:-1 tvg-name="SKY Sports 1 4K English UHD feed primarily Formula 1" tvg-logo="" group-title="SPORTS CHANNELS?",SKY Sports 1 4K English UHD feed primarily Formula 1
+https://api.zlive.st/p/5e261ee186fc3644/index.m3u8
+
+#EXTINF:-1 tvg-name="Eurosport 1 FR France FHD Eurosport feed" tvg-logo="" group-title="SPORTS CHANNELS?",Eurosport 1 FR France FHD Eurosport feed
+https://api.zlive.st/p/4a7300f23b11ed64/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 ES Spain FHD Espanol Formula 1" tvg-logo="" group-title="SPORTS CHANNELS?",DAZN 1 ES Spain FHD Espanol Formula 1
+https://api.zlive.st/p/490f444f46b6137a/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="SPORTS CHANNELS?",ESPN
+https://api.zlive.st/p/0cefc4ff2901576a/index.m3u8
+
+#EXTINF:-1 tvg-name="NBC USA FHD NBC Feed" tvg-logo="" group-title="SPORTS CHANNELS?",NBC USA FHD Feed
+https://api.zlive.st/p/d780fdc32fc5b1c0/index.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1 USA FHD" tvg-logo="" group-title="SPORTS CHANNELS?",DAZN 1 USA FHD
+https://api.zlive.st/p/5f83067185b32a6e/index.m3u8
+
+#EXTINF:-1 tvg-name="Telemundo USA Spanish" tvg-logo="" group-title="SPORTS CHANNELS?",Telemundo USA Spanish
+https://api.zlive.st/p/8b7d49cd99094663/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel Disney USA" tvg-logo="" group-title="SPORTS CHANNELS?",Disney Channel USA
+https://api.zlive.st/p/1753100725e3bd2a/index.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network USA" tvg-logo="" group-title="SPORTS CHANNELS?",Cartoon Network USA
+https://api.zlive.st/p/34b6a9e2f19ef464/index.m3u8
 
 
 
