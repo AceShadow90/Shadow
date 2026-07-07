@@ -49,50 +49,105 @@ https://box.djdoolky76.net/stream/udptv/pbarush/master.m3u8?u=gratisph&p=b7594b1
 
 
 #EXTM3U
-#EXTINF:-1 tvg-name="FOX 4K United States UHD Feed English (HDR)" tvg-logo="" group-title="SPORTS CHANNELS?",FOX 4K United States UHD Feed English (HDR)
-https://api.zlive.st/p/b8d12bcd88cf5955/index.m3u8
+#EXTINF:-1 tvg-id="926467" tvg-name="ARG| TELEMUNDO" tvg-logo="http://picons.cmshulk.com/picons/926467.png" group-title="LAT| ARGENTINA",ARG| TELEMUNDO
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A926467.m3u8
 
-#EXTINF:-1 tvg-name="FOX FHD United States FHD Feed English" tvg-logo="" group-title="SPORTS CHANNELS?",FOX FHD United States FHD Feed English
-https://api.zlive.st/p/b924bdacf7babe67/index.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="CR| TELEMUNDO" tvg-logo="http://picons.cmshulk.com/picons/818897.png" group-title="LAT| COSTA RICA",CR| TELEMUNDO
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A818897.m3u8
 
-#EXTINF:-1 tvg-name="TSN Canada 4K Canada UHD Broadcast Feed" tvg-logo="" group-title="SPORTS CHANNELS?",TSN Canada 4K Canada UHD Broadcast Feed
-https://api.zlive.st/p/f6a5d0cdf6543a76/index.m3u8
+#EXTINF:-1 tvg-id="1010772" tvg-name="LAT| TELEMUNDO 42 NEW ORLEANS" tvg-logo="http://103.176.90.118/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| GENERAL",LAT| TELEMUNDO 42 NEW ORLEANS
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A1010772.m3u8
+#EXTINF:-1 tvg-id="1060021" tvg-name="LAT| TELEMUNDO 49 TAMPA" tvg-logo="http://103.176.90.118/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| GENERAL",LAT| TELEMUNDO 49 TAMPA
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A1060021.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (WKTB-CD2) Atlanta, GA" tvg-name="LAT| TELEMUNDO ATLANTA HD" tvg-logo="http://picons.cmshulk.com/picons/25568.png" group-title="LAT| GENERAL",LAT| TELEMUNDO ATLANTA HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25568.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (WNEU) Manchester, MA" tvg-name="LAT| TELEMUNDO BOSTON HD" tvg-logo="http://picons.cmshulk.com/picons/25573.png" group-title="LAT| GENERAL",LAT| TELEMUNDO BOSTON HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25573.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (WSNS) Chicago, IL" tvg-name="LAT| TELEMUNDO CHICAGO HD" tvg-logo="http://picons.cmshulk.com/picons/25576.png" group-title="LAT| GENERAL",LAT| TELEMUNDO CHICAGO HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25576.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (KXTX) Dallas, TX" tvg-name="LAT| TELEMUNDO DALLAS HD" tvg-logo="http://picons.cmshulk.com/picons/25575.png" group-title="LAT| GENERAL",LAT| TELEMUNDO DALLAS HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25575.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (WNEU) Manchester, MA HD" tvg-name="LAT| TELEMUNDO EAST HD" tvg-logo="http://picons.cmshulk.com/picons/75222.png" group-title="LAT| GENERAL",LAT| TELEMUNDO EAST HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A75222.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (KNSO) Fresno, CA" tvg-name="LAT| TELEMUNDO FRESNO HD" tvg-logo="http://picons.cmshulk.com/picons/25578.png" group-title="LAT| GENERAL",LAT| TELEMUNDO FRESNO HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25578.m3u8
+#EXTINF:-1 tvg-id="la.Canal Telemundo (México)" tvg-name="LAT| TELEMUNDO HARTFORD" tvg-logo="http://picons.cmshulk.com/picons/806851.png" group-title="LAT| GENERAL",LAT| TELEMUNDO HARTFORD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A806851.m3u8
+#EXTINF:-1 tvg-id="la.Canal Telemundo (México)" tvg-name="LAT| TELEMUNDO HD" tvg-logo="http://picons.cmshulk.com/picons/25581.png" group-title="LAT| GENERAL",LAT| TELEMUNDO HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25581.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (KTMD) Houston, TX" tvg-name="LAT| TELEMUNDO HOUSTON HD" tvg-logo="http://103.176.90.118/picons/logos/laz.Telemundo_Houston.png" group-title="LAT| GENERAL",LAT| TELEMUNDO HOUSTON HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25567.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (KBLR) Las Vegas, NV" tvg-name="LAT| TELEMUNDO LAS VEGAS HD" tvg-logo="http://103.176.90.118/picons/logos/laz.telemundo39.png" group-title="LAT| GENERAL",LAT| TELEMUNDO LAS VEGAS HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25571.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (KVEA) Los Angeles, CA" tvg-name="LAT| TELEMUNDO LOS ANGELES HD" tvg-logo="http://103.176.90.118/picons/logos/laz.telemundo_los_anjeles.png" group-title="LAT| GENERAL",LAT| TELEMUNDO LOS ANGELES HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25577.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (WSCV) Fort Lauderdale, FL" tvg-name="LAT| TELEMUNDO MIAMI HD" tvg-logo="http://103.176.90.118/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| GENERAL",LAT| TELEMUNDO MIAMI HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A721973.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (WNJU) Teterboro, NJ" tvg-name="LAT| TELEMUNDO NEW YORK HD" tvg-logo="http://103.176.90.118/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| GENERAL",LAT| TELEMUNDO NEW YORK HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25580.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (KTAZ) Phoenix, AZ" tvg-name="LAT| TELEMUNDO PHOENIX HD" tvg-logo="http://picons.cmshulk.com/picons/25569.png" group-title="LAT| GENERAL",LAT| TELEMUNDO PHOENIX HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25569.m3u8
+#EXTINF:-1 tvg-id="1981888" tvg-name="LAT| TELEMUNDO SAN FRANCISCO HD" tvg-logo="http://103.176.90.118/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| GENERAL",LAT| TELEMUNDO SAN FRANCISCO HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A1981888.m3u8
+#EXTINF:-1 tvg-id="la.Telemundo (WZDC) Washington, DC" tvg-name="LAT| TELEMUNDO WASHINGTON HD" tvg-logo="http://picons.cmshulk.com/picons/25572.png" group-title="LAT| GENERAL",LAT| TELEMUNDO WASHINGTON HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A25572.m3u8
 
-#EXTINF:-1 tvg-name="beIN MAX 3 4K Arabic FHD beIN feed" tvg-logo="" group-title="SPORTS CHANNELS?",beIN MAX 3 4K Arabic FHD beIN feed
-https://api.zlive.st/p/0fa9f6f5d32f810b/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="GO| FOX SPORTS 1" tvg-logo="http://51.158.145.100/picons/logos/USA/1931078.png" group-title="US| DIREC TV GO ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GO| FOX SPORTS 1
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A1931078.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="GO| FOX SPORTS 2" tvg-logo="http://51.158.145.100/picons/logos/USA/1931077.png" group-title="US| DIREC TV GO ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GO| FOX SPORTS 2
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A1931077.m3u8
 
-#EXTINF:-1 tvg-name="FOX Sports 1 United States FHD Broadcast Feed" tvg-logo="" group-title="SPORTS CHANNELS?",FOX Sports 1 United States FHD Broadcast Feed
-https://api.zlive.st/p/4a67e231fb431711/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="WC| (FR) M6 (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (FR) M6 (UHD/4K)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094025.m3u8
+#EXTINF:-1 tvg-id="2094027" tvg-name="WC| (HK) NOW SPORTS 616 (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (HK) NOW SPORTS 616 (UHD/4K)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094027.m3u8
+#EXTINF:-1 tvg-id="2094026" tvg-name="WC| (HK) NOW SPORTS 617 (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (HK) NOW SPORTS 617 (UHD/4K)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094026.m3u8
+#EXTINF:-1 tvg-id="2095855" tvg-name="WC| (LAT) DSPORTS" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (LAT) DSPORTS
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2095855.m3u8
+#EXTINF:-1 tvg-id="NBCUniverso.us" tvg-name="WC| (LAT) UNIVERSO (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (LAT) UNIVERSO (UHD/4K)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094028.m3u8
+#EXTINF:-1 tvg-id="2095854" tvg-name="WC| (PT) CAZE TV BRAZIL" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (PT) CAZE TV BRAZIL
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2095854.m3u8
+#EXTINF:-1 tvg-id="2094040" tvg-name="WC| (UK) BBC (FHD)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (UK) BBC (FHD)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094040.m3u8
+#EXTINF:-1 tvg-id="2094039" tvg-name="WC| (UK) BBC (HD)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (UK) BBC (HD)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094039.m3u8
+#EXTINF:-1 tvg-id="2094038" tvg-name="WC| (UK) BBC (SD)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (UK) BBC (SD)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094038.m3u8
+#EXTINF:-1 tvg-id="2094033" tvg-name="WC| (UK) BBC (UHD/4k)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (UK) BBC (UHD/4k)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094033.m3u8
+#EXTINF:-1 tvg-id="2094037" tvg-name="WC| (UK) ITV (FHD)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (UK) ITV (FHD)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094037.m3u8
+#EXTINF:-1 tvg-id="2094036" tvg-name="WC| (UK) ITV (HD)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (UK) ITV (HD)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094036.m3u8
+#EXTINF:-1 tvg-id="2094035" tvg-name="WC| (UK) ITV (SD)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (UK) ITV (SD)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094035.m3u8
+#EXTINF:-1 tvg-id="2094032" tvg-name="WC| (US) FOX (UHD/4K) (1)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (US) FOX (UHD/4K) (1)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094032.m3u8
+#EXTINF:-1 tvg-id="2094031" tvg-name="WC| (US) FOX (UHD/4K) (2)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (US) FOX (UHD/4K) (2)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094031.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="WC| (US) FOX SPORTS 1 (UHD/4K) (1)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (US) FOX SPORTS 1 (UHD/4K) (1)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094030.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="WC| (US) FOX SPORTS 1 (UHD/4K) (2)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (US) FOX SPORTS 1 (UHD/4K) (2)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094029.m3u8
+#EXTINF:-1 tvg-id="2094034" tvg-name="WC| (US) FUBO SPORTS XTRA (FHD)" tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="US| WORLD CUP 2026 VIP",WC| (US) FUBO SPORTS XTRA (FHD)
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/strongvaulttv%3Achannel%3A2094034.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:349" tvg-name="BBC News Channel HD" tvg-logo="" group-title="DLStreams - News & Business",BBC News Channel HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A349.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:309" tvg-name="CNBC USA" tvg-logo="" group-title="DLStreams - News & Business",CNBC USA
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A309.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:345" tvg-name="CNN USA" tvg-logo="" group-title="DLStreams - News & Business",CNN USA
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A345.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:297" tvg-name="Fox Business" tvg-logo="" group-title="DLStreams - News & Business",Fox Business
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A297.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:347" tvg-name="Fox News" tvg-logo="" group-title="DLStreams - News & Business",Fox News
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A347.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:323" tvg-name="Headline News" tvg-logo="" group-title="DLStreams - News & Business",Headline News
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A323.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:327" tvg-name="MSNBC" tvg-logo="" group-title="DLStreams - News & Business",MSNBC
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A327.m3u8
 
-#EXTINF:-1 tvg-name="FOX Sports 2 United States 1080p Broadcast feed" tvg-logo="" group-title="SPORTS CHANNELS?",FOX Sports 2 United States 1080p Broadcast feed
-https://api.zlive.st/p/8dddaeb4f3fef64d/index.m3u8
-
-#EXTINF:-1 tvg-name="SKY Sports 1 4K English UHD feed primarily Formula 1" tvg-logo="" group-title="SPORTS CHANNELS?",SKY Sports 1 4K English UHD feed primarily Formula 1
-https://api.zlive.st/p/5e261ee186fc3644/index.m3u8
-
-#EXTINF:-1 tvg-name="Eurosport 1 FR France FHD Eurosport feed" tvg-logo="" group-title="SPORTS CHANNELS?",Eurosport 1 FR France FHD Eurosport feed
-https://api.zlive.st/p/4a7300f23b11ed64/index.m3u8
-
-#EXTINF:-1 tvg-name="DAZN 1 ES Spain FHD Espanol Formula 1" tvg-logo="" group-title="SPORTS CHANNELS?",DAZN 1 ES Spain FHD Espanol Formula 1
-https://api.zlive.st/p/490f444f46b6137a/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="SPORTS CHANNELS?",ESPN
-https://api.zlive.st/p/0cefc4ff2901576a/index.m3u8
-
-#EXTINF:-1 tvg-name="NBC USA FHD NBC Feed" tvg-logo="" group-title="SPORTS CHANNELS?",NBC USA FHD Feed
-https://api.zlive.st/p/d780fdc32fc5b1c0/index.m3u8
-
-#EXTINF:-1 tvg-name="DAZN 1 USA FHD" tvg-logo="" group-title="SPORTS CHANNELS?",DAZN 1 USA FHD
-https://api.zlive.st/p/5f83067185b32a6e/index.m3u8
-
-#EXTINF:-1 tvg-name="Telemundo USA Spanish" tvg-logo="" group-title="SPORTS CHANNELS?",Telemundo USA Spanish
-https://api.zlive.st/p/8b7d49cd99094663/index.m3u8
-
-#EXTINF:-1 tvg-name="Disney Channel Disney USA" tvg-logo="" group-title="SPORTS CHANNELS?",Disney Channel USA
-https://api.zlive.st/p/1753100725e3bd2a/index.m3u8
-
-#EXTINF:-1 tvg-name="Cartoon Network USA" tvg-logo="" group-title="SPORTS CHANNELS?",Cartoon Network USA
-https://api.zlive.st/p/34b6a9e2f19ef464/index.m3u8
 
 
 
